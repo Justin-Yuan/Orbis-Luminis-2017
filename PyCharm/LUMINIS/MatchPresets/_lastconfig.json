@@ -1,0 +1,1 @@
+{"mapName":"Nesting Cores","playerPaths":["Bots/PythonAI_2/PlayerAI.py","Bots/PythonAI_1/PlayerAI.py"],"maxResponseTime":1073741823,"turnLimit":500,"portNumber":4461,"serverTimeout":0,"playerLaunchTypes":["AI","AI"]}

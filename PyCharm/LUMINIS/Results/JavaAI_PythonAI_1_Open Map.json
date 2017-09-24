@@ -1,0 +1,6662 @@
+{
+  "playerUuidToIndexMap": {
+    "PythonAI_1": 1,
+    "JavaAI": 0
+  },
+  "numTurns": 26,
+  "playerUuidToMissedTurns": {
+    "PythonAI_1": 6,
+    "JavaAI": 0
+  },
+  "gameMoves": [
+    {
+      "PythonAI_1": {
+        "uuidToCoreMap": {
+          "948bed77-2ee3-45dd-9e93-4fef8f4e8044": {
+            "uuid": "948bed77-2ee3-45dd-9e93-4fef8f4e8044",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 4,
+              "y": 3
+            },
+            "lastMoveResult": "NEWLY_SPAWNED"
+          }
+        }
+      },
+      "JavaAI": {
+        "uuidToCoreMap": {
+          "f8e1e341-225a-4fd1-a09c-e4ca8e258eb2": {
+            "mergedUnitUuids": [],
+            "uuid": "f8e1e341-225a-4fd1-a09c-e4ca8e258eb2",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 14
+            },
+            "lastMoveResult": "NEWLY_SPAWNED",
+            "position": {
+              "x": 15,
+              "y": 15
+            }
+          }
+        }
+      }
+    },
+    {
+      "PythonAI_1": {
+        "uuidToCoreMap": {
+          "948bed77-2ee3-45dd-9e93-4fef8f4e8044": {
+            "uuid": "948bed77-2ee3-45dd-9e93-4fef8f4e8044",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 5,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "5e14039b-4813-448d-bf8e-c016f8966189": {
+            "uuid": "5e14039b-4813-448d-bf8e-c016f8966189",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 4,
+              "y": 3
+            },
+            "lastMoveResult": "NEWLY_SPAWNED"
+          }
+        }
+      },
+      "JavaAI": {
+        "uuidToCoreMap": {
+          "f8e1e341-225a-4fd1-a09c-e4ca8e258eb2": {
+            "mergedUnitUuids": [],
+            "uuid": "f8e1e341-225a-4fd1-a09c-e4ca8e258eb2",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 13
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 14
+            }
+          },
+          "753667c2-13cb-45f3-8c8a-d0a9b5051efc": {
+            "mergedUnitUuids": [],
+            "uuid": "753667c2-13cb-45f3-8c8a-d0a9b5051efc",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 14
+            },
+            "lastMoveResult": "NEWLY_SPAWNED",
+            "position": {
+              "x": 15,
+              "y": 15
+            }
+          }
+        }
+      }
+    },
+    {
+      "PythonAI_1": {
+        "uuidToCoreMap": {
+          "948bed77-2ee3-45dd-9e93-4fef8f4e8044": {
+            "uuid": "948bed77-2ee3-45dd-9e93-4fef8f4e8044",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 6,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "3dc28062-107d-400c-ac70-b11b0acf8fde": {
+            "uuid": "3dc28062-107d-400c-ac70-b11b0acf8fde",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 4,
+              "y": 3
+            },
+            "lastMoveResult": "NEWLY_SPAWNED"
+          },
+          "5e14039b-4813-448d-bf8e-c016f8966189": {
+            "uuid": "5e14039b-4813-448d-bf8e-c016f8966189",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 5,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          }
+        }
+      },
+      "JavaAI": {
+        "uuidToCoreMap": {
+          "7623df74-ec79-489a-9729-8817e01e1073": {
+            "mergedUnitUuids": [],
+            "uuid": "7623df74-ec79-489a-9729-8817e01e1073",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 14
+            },
+            "lastMoveResult": "NEWLY_SPAWNED",
+            "position": {
+              "x": 15,
+              "y": 15
+            }
+          },
+          "f8e1e341-225a-4fd1-a09c-e4ca8e258eb2": {
+            "mergedUnitUuids": [],
+            "uuid": "f8e1e341-225a-4fd1-a09c-e4ca8e258eb2",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 12
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 13
+            }
+          },
+          "753667c2-13cb-45f3-8c8a-d0a9b5051efc": {
+            "mergedUnitUuids": [],
+            "uuid": "753667c2-13cb-45f3-8c8a-d0a9b5051efc",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 16,
+              "y": 14
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 14
+            }
+          }
+        }
+      }
+    },
+    {
+      "PythonAI_1": {
+        "uuidToCoreMap": {
+          "948bed77-2ee3-45dd-9e93-4fef8f4e8044": {
+            "uuid": "948bed77-2ee3-45dd-9e93-4fef8f4e8044",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 7,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "3dc28062-107d-400c-ac70-b11b0acf8fde": {
+            "uuid": "3dc28062-107d-400c-ac70-b11b0acf8fde",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 5,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "5e14039b-4813-448d-bf8e-c016f8966189": {
+            "uuid": "5e14039b-4813-448d-bf8e-c016f8966189",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 6,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "c7dde6f5-e6eb-4076-b3c8-30888c5230f7": {
+            "uuid": "c7dde6f5-e6eb-4076-b3c8-30888c5230f7",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 4,
+              "y": 3
+            },
+            "lastMoveResult": "NEWLY_SPAWNED"
+          }
+        }
+      },
+      "JavaAI": {
+        "uuidToCoreMap": {
+          "7623df74-ec79-489a-9729-8817e01e1073": {
+            "mergedUnitUuids": [],
+            "uuid": "7623df74-ec79-489a-9729-8817e01e1073",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 14
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 14
+            }
+          },
+          "f8e1e341-225a-4fd1-a09c-e4ca8e258eb2": {
+            "mergedUnitUuids": [],
+            "uuid": "f8e1e341-225a-4fd1-a09c-e4ca8e258eb2",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 11
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 12
+            }
+          },
+          "753667c2-13cb-45f3-8c8a-d0a9b5051efc": {
+            "mergedUnitUuids": [],
+            "uuid": "753667c2-13cb-45f3-8c8a-d0a9b5051efc",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 16,
+              "y": 13
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 16,
+              "y": 14
+            }
+          },
+          "a7959888-d49f-40ee-88b2-3b07a8a36d8d": {
+            "mergedUnitUuids": [],
+            "uuid": "a7959888-d49f-40ee-88b2-3b07a8a36d8d",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 14
+            },
+            "lastMoveResult": "NEWLY_SPAWNED",
+            "position": {
+              "x": 15,
+              "y": 15
+            }
+          }
+        }
+      }
+    },
+    {
+      "PythonAI_1": {
+        "uuidToCoreMap": {
+          "948bed77-2ee3-45dd-9e93-4fef8f4e8044": {
+            "uuid": "948bed77-2ee3-45dd-9e93-4fef8f4e8044",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 8,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "3dc28062-107d-400c-ac70-b11b0acf8fde": {
+            "uuid": "3dc28062-107d-400c-ac70-b11b0acf8fde",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 6,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "5e14039b-4813-448d-bf8e-c016f8966189": {
+            "uuid": "5e14039b-4813-448d-bf8e-c016f8966189",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 7,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "0d31a446-f75f-499e-81b0-cabd0fba7bbe": {
+            "uuid": "0d31a446-f75f-499e-81b0-cabd0fba7bbe",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 4,
+              "y": 3
+            },
+            "lastMoveResult": "NEWLY_SPAWNED"
+          },
+          "c7dde6f5-e6eb-4076-b3c8-30888c5230f7": {
+            "uuid": "c7dde6f5-e6eb-4076-b3c8-30888c5230f7",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 5,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          }
+        }
+      },
+      "JavaAI": {
+        "uuidToCoreMap": {
+          "7623df74-ec79-489a-9729-8817e01e1073": {
+            "mergedUnitUuids": [],
+            "uuid": "7623df74-ec79-489a-9729-8817e01e1073",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 13
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 14
+            }
+          },
+          "f8e1e341-225a-4fd1-a09c-e4ca8e258eb2": {
+            "mergedUnitUuids": [],
+            "uuid": "f8e1e341-225a-4fd1-a09c-e4ca8e258eb2",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 10
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 11
+            }
+          },
+          "753667c2-13cb-45f3-8c8a-d0a9b5051efc": {
+            "mergedUnitUuids": [],
+            "uuid": "753667c2-13cb-45f3-8c8a-d0a9b5051efc",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 16,
+              "y": 12
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 16,
+              "y": 13
+            }
+          },
+          "a7959888-d49f-40ee-88b2-3b07a8a36d8d": {
+            "mergedUnitUuids": [],
+            "uuid": "a7959888-d49f-40ee-88b2-3b07a8a36d8d",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 13
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 14
+            }
+          },
+          "8a56fe56-c37a-4c95-bcb3-48ac8a23ef1e": {
+            "mergedUnitUuids": [],
+            "uuid": "8a56fe56-c37a-4c95-bcb3-48ac8a23ef1e",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 16,
+              "y": 15
+            },
+            "lastMoveResult": "NEWLY_SPAWNED",
+            "position": {
+              "x": 15,
+              "y": 15
+            }
+          }
+        }
+      }
+    },
+    {
+      "PythonAI_1": {
+        "uuidToCoreMap": {
+          "948bed77-2ee3-45dd-9e93-4fef8f4e8044": {
+            "uuid": "948bed77-2ee3-45dd-9e93-4fef8f4e8044",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 9,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "3dc28062-107d-400c-ac70-b11b0acf8fde": {
+            "uuid": "3dc28062-107d-400c-ac70-b11b0acf8fde",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 7,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "5e14039b-4813-448d-bf8e-c016f8966189": {
+            "uuid": "5e14039b-4813-448d-bf8e-c016f8966189",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 8,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "797d0f8d-ccad-4d48-b793-f79b304d39ba": {
+            "uuid": "797d0f8d-ccad-4d48-b793-f79b304d39ba",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 4,
+              "y": 3
+            },
+            "lastMoveResult": "NEWLY_SPAWNED"
+          },
+          "0d31a446-f75f-499e-81b0-cabd0fba7bbe": {
+            "uuid": "0d31a446-f75f-499e-81b0-cabd0fba7bbe",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 5,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "c7dde6f5-e6eb-4076-b3c8-30888c5230f7": {
+            "uuid": "c7dde6f5-e6eb-4076-b3c8-30888c5230f7",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 6,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          }
+        }
+      },
+      "JavaAI": {
+        "uuidToCoreMap": {
+          "7623df74-ec79-489a-9729-8817e01e1073": {
+            "mergedUnitUuids": [],
+            "uuid": "7623df74-ec79-489a-9729-8817e01e1073",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 12
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 13
+            }
+          },
+          "f8e1e341-225a-4fd1-a09c-e4ca8e258eb2": {
+            "mergedUnitUuids": [],
+            "uuid": "f8e1e341-225a-4fd1-a09c-e4ca8e258eb2",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 9
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 10
+            }
+          },
+          "753667c2-13cb-45f3-8c8a-d0a9b5051efc": {
+            "mergedUnitUuids": [],
+            "uuid": "753667c2-13cb-45f3-8c8a-d0a9b5051efc",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 16,
+              "y": 11
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 16,
+              "y": 12
+            }
+          },
+          "b6127f7b-8259-4ebf-9ecf-28aac6442c72": {
+            "mergedUnitUuids": [],
+            "uuid": "b6127f7b-8259-4ebf-9ecf-28aac6442c72",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 16,
+              "y": 15
+            },
+            "lastMoveResult": "NEWLY_SPAWNED",
+            "position": {
+              "x": 15,
+              "y": 15
+            }
+          },
+          "a7959888-d49f-40ee-88b2-3b07a8a36d8d": {
+            "mergedUnitUuids": [],
+            "uuid": "a7959888-d49f-40ee-88b2-3b07a8a36d8d",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 12
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 13
+            }
+          },
+          "8a56fe56-c37a-4c95-bcb3-48ac8a23ef1e": {
+            "mergedUnitUuids": [],
+            "uuid": "8a56fe56-c37a-4c95-bcb3-48ac8a23ef1e",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 17,
+              "y": 15
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 16,
+              "y": 15
+            }
+          }
+        }
+      }
+    },
+    {
+      "PythonAI_1": {
+        "uuidToCoreMap": {
+          "948bed77-2ee3-45dd-9e93-4fef8f4e8044": {
+            "uuid": "948bed77-2ee3-45dd-9e93-4fef8f4e8044",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 10,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "3dc28062-107d-400c-ac70-b11b0acf8fde": {
+            "uuid": "3dc28062-107d-400c-ac70-b11b0acf8fde",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 8,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "5e14039b-4813-448d-bf8e-c016f8966189": {
+            "uuid": "5e14039b-4813-448d-bf8e-c016f8966189",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 9,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "3dc77436-d6cd-41bd-bdd9-fb37fea00150": {
+            "uuid": "3dc77436-d6cd-41bd-bdd9-fb37fea00150",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 4,
+              "y": 3
+            },
+            "lastMoveResult": "NEWLY_SPAWNED"
+          },
+          "797d0f8d-ccad-4d48-b793-f79b304d39ba": {
+            "uuid": "797d0f8d-ccad-4d48-b793-f79b304d39ba",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 5,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "0d31a446-f75f-499e-81b0-cabd0fba7bbe": {
+            "uuid": "0d31a446-f75f-499e-81b0-cabd0fba7bbe",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 6,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "c7dde6f5-e6eb-4076-b3c8-30888c5230f7": {
+            "uuid": "c7dde6f5-e6eb-4076-b3c8-30888c5230f7",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 7,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          }
+        }
+      },
+      "JavaAI": {
+        "uuidToCoreMap": {
+          "7623df74-ec79-489a-9729-8817e01e1073": {
+            "mergedUnitUuids": [],
+            "uuid": "7623df74-ec79-489a-9729-8817e01e1073",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 11
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 12
+            }
+          },
+          "f8e1e341-225a-4fd1-a09c-e4ca8e258eb2": {
+            "mergedUnitUuids": [],
+            "uuid": "f8e1e341-225a-4fd1-a09c-e4ca8e258eb2",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 8
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 9
+            }
+          },
+          "753667c2-13cb-45f3-8c8a-d0a9b5051efc": {
+            "mergedUnitUuids": [],
+            "uuid": "753667c2-13cb-45f3-8c8a-d0a9b5051efc",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 16,
+              "y": 10
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 16,
+              "y": 11
+            }
+          },
+          "b6127f7b-8259-4ebf-9ecf-28aac6442c72": {
+            "mergedUnitUuids": [],
+            "uuid": "b6127f7b-8259-4ebf-9ecf-28aac6442c72",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 16,
+              "y": 16
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 16,
+              "y": 15
+            }
+          },
+          "a7959888-d49f-40ee-88b2-3b07a8a36d8d": {
+            "mergedUnitUuids": [],
+            "uuid": "a7959888-d49f-40ee-88b2-3b07a8a36d8d",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 11
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 12
+            }
+          },
+          "8a56fe56-c37a-4c95-bcb3-48ac8a23ef1e": {
+            "mergedUnitUuids": [],
+            "uuid": "8a56fe56-c37a-4c95-bcb3-48ac8a23ef1e",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 17,
+              "y": 14
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 17,
+              "y": 15
+            }
+          },
+          "7aa2af0e-3b54-4720-a334-cc83fa9255ab": {
+            "mergedUnitUuids": [],
+            "uuid": "7aa2af0e-3b54-4720-a334-cc83fa9255ab",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 16,
+              "y": 15
+            },
+            "lastMoveResult": "NEWLY_SPAWNED",
+            "position": {
+              "x": 15,
+              "y": 15
+            }
+          }
+        }
+      }
+    },
+    {
+      "PythonAI_1": {
+        "uuidToCoreMap": {
+          "948bed77-2ee3-45dd-9e93-4fef8f4e8044": {
+            "uuid": "948bed77-2ee3-45dd-9e93-4fef8f4e8044",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 11,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "3dc28062-107d-400c-ac70-b11b0acf8fde": {
+            "uuid": "3dc28062-107d-400c-ac70-b11b0acf8fde",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 9,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "5e14039b-4813-448d-bf8e-c016f8966189": {
+            "uuid": "5e14039b-4813-448d-bf8e-c016f8966189",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 10,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "3dc77436-d6cd-41bd-bdd9-fb37fea00150": {
+            "uuid": "3dc77436-d6cd-41bd-bdd9-fb37fea00150",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 5,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "797d0f8d-ccad-4d48-b793-f79b304d39ba": {
+            "uuid": "797d0f8d-ccad-4d48-b793-f79b304d39ba",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 6,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "0d31a446-f75f-499e-81b0-cabd0fba7bbe": {
+            "uuid": "0d31a446-f75f-499e-81b0-cabd0fba7bbe",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 7,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "bce9f8e7-b7cb-487b-b7f1-f58065959fe3": {
+            "uuid": "bce9f8e7-b7cb-487b-b7f1-f58065959fe3",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 4,
+              "y": 3
+            },
+            "lastMoveResult": "NEWLY_SPAWNED"
+          },
+          "c7dde6f5-e6eb-4076-b3c8-30888c5230f7": {
+            "uuid": "c7dde6f5-e6eb-4076-b3c8-30888c5230f7",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 8,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          }
+        }
+      },
+      "JavaAI": {
+        "uuidToCoreMap": {
+          "7623df74-ec79-489a-9729-8817e01e1073": {
+            "mergedUnitUuids": [],
+            "uuid": "7623df74-ec79-489a-9729-8817e01e1073",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 10
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 11
+            }
+          },
+          "f8e1e341-225a-4fd1-a09c-e4ca8e258eb2": {
+            "mergedUnitUuids": [],
+            "uuid": "f8e1e341-225a-4fd1-a09c-e4ca8e258eb2",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 7
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 8
+            }
+          },
+          "753667c2-13cb-45f3-8c8a-d0a9b5051efc": {
+            "mergedUnitUuids": [],
+            "uuid": "753667c2-13cb-45f3-8c8a-d0a9b5051efc",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 16,
+              "y": 9
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 16,
+              "y": 10
+            }
+          },
+          "b6127f7b-8259-4ebf-9ecf-28aac6442c72": {
+            "mergedUnitUuids": [],
+            "uuid": "b6127f7b-8259-4ebf-9ecf-28aac6442c72",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 17,
+              "y": 16
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 16,
+              "y": 16
+            }
+          },
+          "a7959888-d49f-40ee-88b2-3b07a8a36d8d": {
+            "mergedUnitUuids": [],
+            "uuid": "a7959888-d49f-40ee-88b2-3b07a8a36d8d",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 10
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 11
+            }
+          },
+          "8a56fe56-c37a-4c95-bcb3-48ac8a23ef1e": {
+            "mergedUnitUuids": [],
+            "uuid": "8a56fe56-c37a-4c95-bcb3-48ac8a23ef1e",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 17,
+              "y": 13
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 17,
+              "y": 14
+            }
+          },
+          "ebbf7cdf-3206-4c70-af39-7b5be24c5357": {
+            "mergedUnitUuids": [],
+            "uuid": "ebbf7cdf-3206-4c70-af39-7b5be24c5357",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 16
+            },
+            "lastMoveResult": "NEWLY_SPAWNED",
+            "position": {
+              "x": 15,
+              "y": 15
+            }
+          },
+          "7aa2af0e-3b54-4720-a334-cc83fa9255ab": {
+            "mergedUnitUuids": [],
+            "uuid": "7aa2af0e-3b54-4720-a334-cc83fa9255ab",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 17,
+              "y": 15
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 16,
+              "y": 15
+            }
+          }
+        }
+      }
+    },
+    {
+      "PythonAI_1": {
+        "uuidToCoreMap": {
+          "948bed77-2ee3-45dd-9e93-4fef8f4e8044": {
+            "uuid": "948bed77-2ee3-45dd-9e93-4fef8f4e8044",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 12,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "3dc28062-107d-400c-ac70-b11b0acf8fde": {
+            "uuid": "3dc28062-107d-400c-ac70-b11b0acf8fde",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 10,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "5e14039b-4813-448d-bf8e-c016f8966189": {
+            "uuid": "5e14039b-4813-448d-bf8e-c016f8966189",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 11,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "3dc77436-d6cd-41bd-bdd9-fb37fea00150": {
+            "uuid": "3dc77436-d6cd-41bd-bdd9-fb37fea00150",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 6,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "164da7d8-45b8-4ffa-8b5d-3ffc19c8b5a5": {
+            "uuid": "164da7d8-45b8-4ffa-8b5d-3ffc19c8b5a5",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 4,
+              "y": 3
+            },
+            "lastMoveResult": "NEWLY_SPAWNED"
+          },
+          "797d0f8d-ccad-4d48-b793-f79b304d39ba": {
+            "uuid": "797d0f8d-ccad-4d48-b793-f79b304d39ba",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 7,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "0d31a446-f75f-499e-81b0-cabd0fba7bbe": {
+            "uuid": "0d31a446-f75f-499e-81b0-cabd0fba7bbe",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 8,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "bce9f8e7-b7cb-487b-b7f1-f58065959fe3": {
+            "uuid": "bce9f8e7-b7cb-487b-b7f1-f58065959fe3",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 5,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "c7dde6f5-e6eb-4076-b3c8-30888c5230f7": {
+            "uuid": "c7dde6f5-e6eb-4076-b3c8-30888c5230f7",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 9,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          }
+        }
+      },
+      "JavaAI": {
+        "uuidToCoreMap": {
+          "c9deb41b-3708-4606-960f-1762abe4b287": {
+            "mergedUnitUuids": [],
+            "uuid": "c9deb41b-3708-4606-960f-1762abe4b287",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 16
+            },
+            "lastMoveResult": "NEWLY_SPAWNED",
+            "position": {
+              "x": 15,
+              "y": 15
+            }
+          },
+          "7623df74-ec79-489a-9729-8817e01e1073": {
+            "mergedUnitUuids": [],
+            "uuid": "7623df74-ec79-489a-9729-8817e01e1073",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 9
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 10
+            }
+          },
+          "f8e1e341-225a-4fd1-a09c-e4ca8e258eb2": {
+            "mergedUnitUuids": [],
+            "uuid": "f8e1e341-225a-4fd1-a09c-e4ca8e258eb2",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 6
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 7
+            }
+          },
+          "753667c2-13cb-45f3-8c8a-d0a9b5051efc": {
+            "mergedUnitUuids": [],
+            "uuid": "753667c2-13cb-45f3-8c8a-d0a9b5051efc",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 16,
+              "y": 8
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 16,
+              "y": 9
+            }
+          },
+          "b6127f7b-8259-4ebf-9ecf-28aac6442c72": {
+            "mergedUnitUuids": [],
+            "uuid": "b6127f7b-8259-4ebf-9ecf-28aac6442c72",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 18,
+              "y": 16
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 17,
+              "y": 16
+            }
+          },
+          "a7959888-d49f-40ee-88b2-3b07a8a36d8d": {
+            "mergedUnitUuids": [],
+            "uuid": "a7959888-d49f-40ee-88b2-3b07a8a36d8d",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 9
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 10
+            }
+          },
+          "8a56fe56-c37a-4c95-bcb3-48ac8a23ef1e": {
+            "mergedUnitUuids": [],
+            "uuid": "8a56fe56-c37a-4c95-bcb3-48ac8a23ef1e",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 17,
+              "y": 12
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 17,
+              "y": 13
+            }
+          },
+          "ebbf7cdf-3206-4c70-af39-7b5be24c5357": {
+            "mergedUnitUuids": [],
+            "uuid": "ebbf7cdf-3206-4c70-af39-7b5be24c5357",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 17
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 16
+            }
+          },
+          "7aa2af0e-3b54-4720-a334-cc83fa9255ab": {
+            "mergedUnitUuids": [],
+            "uuid": "7aa2af0e-3b54-4720-a334-cc83fa9255ab",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 18,
+              "y": 15
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 17,
+              "y": 15
+            }
+          }
+        }
+      }
+    },
+    {
+      "PythonAI_1": {
+        "uuidToCoreMap": {
+          "948bed77-2ee3-45dd-9e93-4fef8f4e8044": {
+            "uuid": "948bed77-2ee3-45dd-9e93-4fef8f4e8044",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "3dc28062-107d-400c-ac70-b11b0acf8fde": {
+            "uuid": "3dc28062-107d-400c-ac70-b11b0acf8fde",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 11,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "5e14039b-4813-448d-bf8e-c016f8966189": {
+            "uuid": "5e14039b-4813-448d-bf8e-c016f8966189",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 12,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "3dc77436-d6cd-41bd-bdd9-fb37fea00150": {
+            "uuid": "3dc77436-d6cd-41bd-bdd9-fb37fea00150",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 7,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "164da7d8-45b8-4ffa-8b5d-3ffc19c8b5a5": {
+            "uuid": "164da7d8-45b8-4ffa-8b5d-3ffc19c8b5a5",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 5,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "797d0f8d-ccad-4d48-b793-f79b304d39ba": {
+            "uuid": "797d0f8d-ccad-4d48-b793-f79b304d39ba",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 8,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "0d31a446-f75f-499e-81b0-cabd0fba7bbe": {
+            "uuid": "0d31a446-f75f-499e-81b0-cabd0fba7bbe",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 9,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "78190120-8f9b-4f4a-883b-fb036334e85f": {
+            "uuid": "78190120-8f9b-4f4a-883b-fb036334e85f",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 4,
+              "y": 3
+            },
+            "lastMoveResult": "NEWLY_SPAWNED"
+          },
+          "bce9f8e7-b7cb-487b-b7f1-f58065959fe3": {
+            "uuid": "bce9f8e7-b7cb-487b-b7f1-f58065959fe3",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 6,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "c7dde6f5-e6eb-4076-b3c8-30888c5230f7": {
+            "uuid": "c7dde6f5-e6eb-4076-b3c8-30888c5230f7",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 10,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          }
+        }
+      },
+      "JavaAI": {
+        "uuidToCoreMap": {
+          "16bc23da-aad4-4962-98de-a560d2625553": {
+            "mergedUnitUuids": [],
+            "uuid": "16bc23da-aad4-4962-98de-a560d2625553",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 16
+            },
+            "lastMoveResult": "NEWLY_SPAWNED",
+            "position": {
+              "x": 15,
+              "y": 15
+            }
+          },
+          "c9deb41b-3708-4606-960f-1762abe4b287": {
+            "mergedUnitUuids": [],
+            "uuid": "c9deb41b-3708-4606-960f-1762abe4b287",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 16
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 16
+            }
+          },
+          "7623df74-ec79-489a-9729-8817e01e1073": {
+            "mergedUnitUuids": [],
+            "uuid": "7623df74-ec79-489a-9729-8817e01e1073",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 8
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 9
+            }
+          },
+          "f8e1e341-225a-4fd1-a09c-e4ca8e258eb2": {
+            "mergedUnitUuids": [],
+            "uuid": "f8e1e341-225a-4fd1-a09c-e4ca8e258eb2",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 5
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 6
+            }
+          },
+          "753667c2-13cb-45f3-8c8a-d0a9b5051efc": {
+            "mergedUnitUuids": [],
+            "uuid": "753667c2-13cb-45f3-8c8a-d0a9b5051efc",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 16,
+              "y": 7
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 16,
+              "y": 8
+            }
+          },
+          "b6127f7b-8259-4ebf-9ecf-28aac6442c72": {
+            "mergedUnitUuids": [],
+            "uuid": "b6127f7b-8259-4ebf-9ecf-28aac6442c72",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 0,
+              "y": 16
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 18,
+              "y": 16
+            }
+          },
+          "a7959888-d49f-40ee-88b2-3b07a8a36d8d": {
+            "mergedUnitUuids": [],
+            "uuid": "a7959888-d49f-40ee-88b2-3b07a8a36d8d",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 8
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 9
+            }
+          },
+          "8a56fe56-c37a-4c95-bcb3-48ac8a23ef1e": {
+            "mergedUnitUuids": [],
+            "uuid": "8a56fe56-c37a-4c95-bcb3-48ac8a23ef1e",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 17,
+              "y": 11
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 17,
+              "y": 12
+            }
+          },
+          "ebbf7cdf-3206-4c70-af39-7b5be24c5357": {
+            "mergedUnitUuids": [],
+            "uuid": "ebbf7cdf-3206-4c70-af39-7b5be24c5357",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 16,
+              "y": 17
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 17
+            }
+          },
+          "7aa2af0e-3b54-4720-a334-cc83fa9255ab": {
+            "mergedUnitUuids": [],
+            "uuid": "7aa2af0e-3b54-4720-a334-cc83fa9255ab",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 18,
+              "y": 14
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 18,
+              "y": 15
+            }
+          }
+        }
+      }
+    },
+    {
+      "PythonAI_1": {
+        "uuidToCoreMap": {
+          "948bed77-2ee3-45dd-9e93-4fef8f4e8044": {
+            "uuid": "948bed77-2ee3-45dd-9e93-4fef8f4e8044",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "3dc28062-107d-400c-ac70-b11b0acf8fde": {
+            "uuid": "3dc28062-107d-400c-ac70-b11b0acf8fde",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 12,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "5e14039b-4813-448d-bf8e-c016f8966189": {
+            "uuid": "5e14039b-4813-448d-bf8e-c016f8966189",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "3dc77436-d6cd-41bd-bdd9-fb37fea00150": {
+            "uuid": "3dc77436-d6cd-41bd-bdd9-fb37fea00150",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 8,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "c7dde6f5-e6eb-4076-b3c8-30888c5230f7": {
+            "uuid": "c7dde6f5-e6eb-4076-b3c8-30888c5230f7",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 11,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "164da7d8-45b8-4ffa-8b5d-3ffc19c8b5a5": {
+            "uuid": "164da7d8-45b8-4ffa-8b5d-3ffc19c8b5a5",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 6,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "797d0f8d-ccad-4d48-b793-f79b304d39ba": {
+            "uuid": "797d0f8d-ccad-4d48-b793-f79b304d39ba",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 9,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "0d31a446-f75f-499e-81b0-cabd0fba7bbe": {
+            "uuid": "0d31a446-f75f-499e-81b0-cabd0fba7bbe",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 10,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "78190120-8f9b-4f4a-883b-fb036334e85f": {
+            "uuid": "78190120-8f9b-4f4a-883b-fb036334e85f",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 5,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "bce9f8e7-b7cb-487b-b7f1-f58065959fe3": {
+            "uuid": "bce9f8e7-b7cb-487b-b7f1-f58065959fe3",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 7,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "fb48b4f6-2a40-484b-9c9d-7e57ed2ff521": {
+            "uuid": "fb48b4f6-2a40-484b-9c9d-7e57ed2ff521",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 4,
+              "y": 3
+            },
+            "lastMoveResult": "NEWLY_SPAWNED"
+          }
+        }
+      },
+      "JavaAI": {
+        "uuidToCoreMap": {
+          "16bc23da-aad4-4962-98de-a560d2625553": {
+            "mergedUnitUuids": [],
+            "uuid": "16bc23da-aad4-4962-98de-a560d2625553",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 17
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 16
+            }
+          },
+          "c9deb41b-3708-4606-960f-1762abe4b287": {
+            "mergedUnitUuids": [],
+            "uuid": "c9deb41b-3708-4606-960f-1762abe4b287",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 17
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 16
+            }
+          },
+          "7623df74-ec79-489a-9729-8817e01e1073": {
+            "mergedUnitUuids": [],
+            "uuid": "7623df74-ec79-489a-9729-8817e01e1073",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 7
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 8
+            }
+          },
+          "f8e1e341-225a-4fd1-a09c-e4ca8e258eb2": {
+            "mergedUnitUuids": [],
+            "uuid": "f8e1e341-225a-4fd1-a09c-e4ca8e258eb2",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 4
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 5
+            }
+          },
+          "753667c2-13cb-45f3-8c8a-d0a9b5051efc": {
+            "mergedUnitUuids": [],
+            "uuid": "753667c2-13cb-45f3-8c8a-d0a9b5051efc",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 16,
+              "y": 6
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 16,
+              "y": 7
+            }
+          },
+          "b6127f7b-8259-4ebf-9ecf-28aac6442c72": {
+            "mergedUnitUuids": [],
+            "uuid": "b6127f7b-8259-4ebf-9ecf-28aac6442c72",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 0,
+              "y": 15
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 0,
+              "y": 16
+            }
+          },
+          "a7959888-d49f-40ee-88b2-3b07a8a36d8d": {
+            "mergedUnitUuids": [],
+            "uuid": "a7959888-d49f-40ee-88b2-3b07a8a36d8d",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 7
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 8
+            }
+          },
+          "8a56fe56-c37a-4c95-bcb3-48ac8a23ef1e": {
+            "mergedUnitUuids": [],
+            "uuid": "8a56fe56-c37a-4c95-bcb3-48ac8a23ef1e",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 17,
+              "y": 10
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 17,
+              "y": 11
+            }
+          },
+          "ebbf7cdf-3206-4c70-af39-7b5be24c5357": {
+            "mergedUnitUuids": [],
+            "uuid": "ebbf7cdf-3206-4c70-af39-7b5be24c5357",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 17,
+              "y": 17
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 16,
+              "y": 17
+            }
+          },
+          "7aa2af0e-3b54-4720-a334-cc83fa9255ab": {
+            "mergedUnitUuids": [],
+            "uuid": "7aa2af0e-3b54-4720-a334-cc83fa9255ab",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 18,
+              "y": 13
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 18,
+              "y": 14
+            }
+          },
+          "226e3a22-f1ca-44c4-a882-612dba323e91": {
+            "mergedUnitUuids": [],
+            "uuid": "226e3a22-f1ca-44c4-a882-612dba323e91",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 15
+            },
+            "lastMoveResult": "NEWLY_SPAWNED",
+            "position": {
+              "x": 15,
+              "y": 15
+            }
+          }
+        }
+      }
+    },
+    {
+      "PythonAI_1": {
+        "uuidToCoreMap": {
+          "948bed77-2ee3-45dd-9e93-4fef8f4e8044": {
+            "uuid": "948bed77-2ee3-45dd-9e93-4fef8f4e8044",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "164da7d8-45b8-4ffa-8b5d-3ffc19c8b5a5": {
+            "uuid": "164da7d8-45b8-4ffa-8b5d-3ffc19c8b5a5",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 7,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "3dc28062-107d-400c-ac70-b11b0acf8fde": {
+            "uuid": "3dc28062-107d-400c-ac70-b11b0acf8fde",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "0d31a446-f75f-499e-81b0-cabd0fba7bbe": {
+            "uuid": "0d31a446-f75f-499e-81b0-cabd0fba7bbe",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 11,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "bce9f8e7-b7cb-487b-b7f1-f58065959fe3": {
+            "uuid": "bce9f8e7-b7cb-487b-b7f1-f58065959fe3",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 8,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "c7dde6f5-e6eb-4076-b3c8-30888c5230f7": {
+            "uuid": "c7dde6f5-e6eb-4076-b3c8-30888c5230f7",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 12,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "78190120-8f9b-4f4a-883b-fb036334e85f": {
+            "uuid": "78190120-8f9b-4f4a-883b-fb036334e85f",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 6,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "797d0f8d-ccad-4d48-b793-f79b304d39ba": {
+            "uuid": "797d0f8d-ccad-4d48-b793-f79b304d39ba",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 10,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "5e14039b-4813-448d-bf8e-c016f8966189": {
+            "uuid": "5e14039b-4813-448d-bf8e-c016f8966189",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "7e3cdc63-aadd-4908-8fc0-bfef63ebbeea": {
+            "uuid": "7e3cdc63-aadd-4908-8fc0-bfef63ebbeea",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 4,
+              "y": 3
+            },
+            "lastMoveResult": "NEWLY_SPAWNED"
+          },
+          "3dc77436-d6cd-41bd-bdd9-fb37fea00150": {
+            "uuid": "3dc77436-d6cd-41bd-bdd9-fb37fea00150",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 9,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "fb48b4f6-2a40-484b-9c9d-7e57ed2ff521": {
+            "uuid": "fb48b4f6-2a40-484b-9c9d-7e57ed2ff521",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 5,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          }
+        }
+      },
+      "JavaAI": {
+        "uuidToCoreMap": {
+          "16bc23da-aad4-4962-98de-a560d2625553": {
+            "mergedUnitUuids": [],
+            "uuid": "16bc23da-aad4-4962-98de-a560d2625553",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 18
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 17
+            }
+          },
+          "c9deb41b-3708-4606-960f-1762abe4b287": {
+            "mergedUnitUuids": [],
+            "uuid": "c9deb41b-3708-4606-960f-1762abe4b287",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 18
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 17
+            }
+          },
+          "7623df74-ec79-489a-9729-8817e01e1073": {
+            "mergedUnitUuids": [],
+            "uuid": "7623df74-ec79-489a-9729-8817e01e1073",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 6
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 7
+            }
+          },
+          "3db8041c-983f-4dd1-86bf-e2d0761afec8": {
+            "mergedUnitUuids": [],
+            "uuid": "3db8041c-983f-4dd1-86bf-e2d0761afec8",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 15
+            },
+            "lastMoveResult": "NEWLY_SPAWNED",
+            "position": {
+              "x": 15,
+              "y": 15
+            }
+          },
+          "f8e1e341-225a-4fd1-a09c-e4ca8e258eb2": {
+            "mergedUnitUuids": [],
+            "uuid": "f8e1e341-225a-4fd1-a09c-e4ca8e258eb2",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 4
+            }
+          },
+          "753667c2-13cb-45f3-8c8a-d0a9b5051efc": {
+            "mergedUnitUuids": [],
+            "uuid": "753667c2-13cb-45f3-8c8a-d0a9b5051efc",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 16,
+              "y": 5
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 16,
+              "y": 6
+            }
+          },
+          "b6127f7b-8259-4ebf-9ecf-28aac6442c72": {
+            "mergedUnitUuids": [],
+            "uuid": "b6127f7b-8259-4ebf-9ecf-28aac6442c72",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 0,
+              "y": 14
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 0,
+              "y": 15
+            }
+          },
+          "a7959888-d49f-40ee-88b2-3b07a8a36d8d": {
+            "mergedUnitUuids": [],
+            "uuid": "a7959888-d49f-40ee-88b2-3b07a8a36d8d",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 6
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 7
+            }
+          },
+          "8a56fe56-c37a-4c95-bcb3-48ac8a23ef1e": {
+            "mergedUnitUuids": [],
+            "uuid": "8a56fe56-c37a-4c95-bcb3-48ac8a23ef1e",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 17,
+              "y": 9
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 17,
+              "y": 10
+            }
+          },
+          "ebbf7cdf-3206-4c70-af39-7b5be24c5357": {
+            "mergedUnitUuids": [],
+            "uuid": "ebbf7cdf-3206-4c70-af39-7b5be24c5357",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 18,
+              "y": 17
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 17,
+              "y": 17
+            }
+          },
+          "7aa2af0e-3b54-4720-a334-cc83fa9255ab": {
+            "mergedUnitUuids": [],
+            "uuid": "7aa2af0e-3b54-4720-a334-cc83fa9255ab",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 18,
+              "y": 12
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 18,
+              "y": 13
+            }
+          },
+          "226e3a22-f1ca-44c4-a882-612dba323e91": {
+            "mergedUnitUuids": [],
+            "uuid": "226e3a22-f1ca-44c4-a882-612dba323e91",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 15
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 15
+            }
+          }
+        }
+      }
+    },
+    {
+      "PythonAI_1": {
+        "uuidToCoreMap": {
+          "9b54afee-df06-4cc1-b22f-f477c0e02bb0": {
+            "uuid": "9b54afee-df06-4cc1-b22f-f477c0e02bb0",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 4,
+              "y": 3
+            },
+            "lastMoveResult": "NEWLY_SPAWNED"
+          },
+          "164da7d8-45b8-4ffa-8b5d-3ffc19c8b5a5": {
+            "uuid": "164da7d8-45b8-4ffa-8b5d-3ffc19c8b5a5",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 8,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "3dc28062-107d-400c-ac70-b11b0acf8fde": {
+            "uuid": "3dc28062-107d-400c-ac70-b11b0acf8fde",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "bce9f8e7-b7cb-487b-b7f1-f58065959fe3": {
+            "uuid": "bce9f8e7-b7cb-487b-b7f1-f58065959fe3",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 9,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "0d31a446-f75f-499e-81b0-cabd0fba7bbe": {
+            "uuid": "0d31a446-f75f-499e-81b0-cabd0fba7bbe",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 12,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "c7dde6f5-e6eb-4076-b3c8-30888c5230f7": {
+            "uuid": "c7dde6f5-e6eb-4076-b3c8-30888c5230f7",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "78190120-8f9b-4f4a-883b-fb036334e85f": {
+            "uuid": "78190120-8f9b-4f4a-883b-fb036334e85f",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 7,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "797d0f8d-ccad-4d48-b793-f79b304d39ba": {
+            "uuid": "797d0f8d-ccad-4d48-b793-f79b304d39ba",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 11,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "7e3cdc63-aadd-4908-8fc0-bfef63ebbeea": {
+            "uuid": "7e3cdc63-aadd-4908-8fc0-bfef63ebbeea",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 5,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "fb48b4f6-2a40-484b-9c9d-7e57ed2ff521": {
+            "uuid": "fb48b4f6-2a40-484b-9c9d-7e57ed2ff521",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 6,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "eb774d95-01b7-40b7-943d-127ae60e91f5": {
+            "uuid": "eb774d95-01b7-40b7-943d-127ae60e91f5",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 3
+            },
+            "lastMoveResult": "NEWLY_MERGED"
+          },
+          "3dc77436-d6cd-41bd-bdd9-fb37fea00150": {
+            "uuid": "3dc77436-d6cd-41bd-bdd9-fb37fea00150",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 10,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          }
+        }
+      },
+      "JavaAI": {
+        "uuidToCoreMap": {
+          "16bc23da-aad4-4962-98de-a560d2625553": {
+            "mergedUnitUuids": [],
+            "uuid": "16bc23da-aad4-4962-98de-a560d2625553",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 16,
+              "y": 18
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 18
+            }
+          },
+          "c9deb41b-3708-4606-960f-1762abe4b287": {
+            "mergedUnitUuids": [],
+            "uuid": "c9deb41b-3708-4606-960f-1762abe4b287",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 0
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 18
+            }
+          },
+          "7623df74-ec79-489a-9729-8817e01e1073": {
+            "mergedUnitUuids": [],
+            "uuid": "7623df74-ec79-489a-9729-8817e01e1073",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 5
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 6
+            }
+          },
+          "3db8041c-983f-4dd1-86bf-e2d0761afec8": {
+            "mergedUnitUuids": [],
+            "uuid": "3db8041c-983f-4dd1-86bf-e2d0761afec8",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 14
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 15
+            }
+          },
+          "3da715d3-c8c8-4659-af29-0275c9048753": {
+            "mergedUnitUuids": [],
+            "uuid": "3da715d3-c8c8-4659-af29-0275c9048753",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 14
+            },
+            "lastMoveResult": "NEWLY_SPAWNED",
+            "position": {
+              "x": 15,
+              "y": 15
+            }
+          },
+          "753667c2-13cb-45f3-8c8a-d0a9b5051efc": {
+            "mergedUnitUuids": [],
+            "uuid": "753667c2-13cb-45f3-8c8a-d0a9b5051efc",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 16,
+              "y": 4
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 16,
+              "y": 5
+            }
+          },
+          "b6127f7b-8259-4ebf-9ecf-28aac6442c72": {
+            "mergedUnitUuids": [],
+            "uuid": "b6127f7b-8259-4ebf-9ecf-28aac6442c72",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 0,
+              "y": 13
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 0,
+              "y": 14
+            }
+          },
+          "a7959888-d49f-40ee-88b2-3b07a8a36d8d": {
+            "mergedUnitUuids": [],
+            "uuid": "a7959888-d49f-40ee-88b2-3b07a8a36d8d",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 5
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 6
+            }
+          },
+          "8a56fe56-c37a-4c95-bcb3-48ac8a23ef1e": {
+            "mergedUnitUuids": [],
+            "uuid": "8a56fe56-c37a-4c95-bcb3-48ac8a23ef1e",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 17,
+              "y": 8
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 17,
+              "y": 9
+            }
+          },
+          "ebbf7cdf-3206-4c70-af39-7b5be24c5357": {
+            "mergedUnitUuids": [],
+            "uuid": "ebbf7cdf-3206-4c70-af39-7b5be24c5357",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 0,
+              "y": 17
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 18,
+              "y": 17
+            }
+          },
+          "7aa2af0e-3b54-4720-a334-cc83fa9255ab": {
+            "mergedUnitUuids": [],
+            "uuid": "7aa2af0e-3b54-4720-a334-cc83fa9255ab",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 18,
+              "y": 11
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 18,
+              "y": 12
+            }
+          },
+          "226e3a22-f1ca-44c4-a882-612dba323e91": {
+            "mergedUnitUuids": [],
+            "uuid": "226e3a22-f1ca-44c4-a882-612dba323e91",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 14
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 13,
+              "y": 15
+            }
+          }
+        }
+      }
+    },
+    {
+      "PythonAI_1": {
+        "uuidToCoreMap": {
+          "93a99860-ff25-40d6-bd08-def67f4bcf9b": {
+            "uuid": "93a99860-ff25-40d6-bd08-def67f4bcf9b",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 4,
+              "y": 3
+            },
+            "lastMoveResult": "NEWLY_SPAWNED"
+          },
+          "9b54afee-df06-4cc1-b22f-f477c0e02bb0": {
+            "uuid": "9b54afee-df06-4cc1-b22f-f477c0e02bb0",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 5,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "164da7d8-45b8-4ffa-8b5d-3ffc19c8b5a5": {
+            "uuid": "164da7d8-45b8-4ffa-8b5d-3ffc19c8b5a5",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 9,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "3dc28062-107d-400c-ac70-b11b0acf8fde": {
+            "uuid": "3dc28062-107d-400c-ac70-b11b0acf8fde",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "0d31a446-f75f-499e-81b0-cabd0fba7bbe": {
+            "uuid": "0d31a446-f75f-499e-81b0-cabd0fba7bbe",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "bce9f8e7-b7cb-487b-b7f1-f58065959fe3": {
+            "uuid": "bce9f8e7-b7cb-487b-b7f1-f58065959fe3",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 10,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "c7dde6f5-e6eb-4076-b3c8-30888c5230f7": {
+            "uuid": "c7dde6f5-e6eb-4076-b3c8-30888c5230f7",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "78190120-8f9b-4f4a-883b-fb036334e85f": {
+            "uuid": "78190120-8f9b-4f4a-883b-fb036334e85f",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 8,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "797d0f8d-ccad-4d48-b793-f79b304d39ba": {
+            "uuid": "797d0f8d-ccad-4d48-b793-f79b304d39ba",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 12,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "7e3cdc63-aadd-4908-8fc0-bfef63ebbeea": {
+            "uuid": "7e3cdc63-aadd-4908-8fc0-bfef63ebbeea",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 6,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "fb48b4f6-2a40-484b-9c9d-7e57ed2ff521": {
+            "uuid": "fb48b4f6-2a40-484b-9c9d-7e57ed2ff521",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 7,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "eb774d95-01b7-40b7-943d-127ae60e91f5": {
+            "uuid": "eb774d95-01b7-40b7-943d-127ae60e91f5",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 16,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "3dc77436-d6cd-41bd-bdd9-fb37fea00150": {
+            "uuid": "3dc77436-d6cd-41bd-bdd9-fb37fea00150",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 11,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          }
+        }
+      },
+      "JavaAI": {
+        "uuidToCoreMap": {
+          "16bc23da-aad4-4962-98de-a560d2625553": {
+            "mergedUnitUuids": [],
+            "uuid": "16bc23da-aad4-4962-98de-a560d2625553",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 17,
+              "y": 18
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 16,
+              "y": 18
+            }
+          },
+          "c9deb41b-3708-4606-960f-1762abe4b287": {
+            "mergedUnitUuids": [],
+            "uuid": "c9deb41b-3708-4606-960f-1762abe4b287",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 0
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 0
+            }
+          },
+          "3db8041c-983f-4dd1-86bf-e2d0761afec8": {
+            "mergedUnitUuids": [],
+            "uuid": "3db8041c-983f-4dd1-86bf-e2d0761afec8",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 13
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 14
+            }
+          },
+          "753667c2-13cb-45f3-8c8a-d0a9b5051efc": {
+            "mergedUnitUuids": [],
+            "uuid": "753667c2-13cb-45f3-8c8a-d0a9b5051efc",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 16,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 16,
+              "y": 4
+            }
+          },
+          "b6127f7b-8259-4ebf-9ecf-28aac6442c72": {
+            "mergedUnitUuids": [],
+            "uuid": "b6127f7b-8259-4ebf-9ecf-28aac6442c72",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 0,
+              "y": 12
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 0,
+              "y": 13
+            }
+          },
+          "a7959888-d49f-40ee-88b2-3b07a8a36d8d": {
+            "mergedUnitUuids": [],
+            "uuid": "a7959888-d49f-40ee-88b2-3b07a8a36d8d",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 4
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 5
+            }
+          },
+          "8a56fe56-c37a-4c95-bcb3-48ac8a23ef1e": {
+            "mergedUnitUuids": [],
+            "uuid": "8a56fe56-c37a-4c95-bcb3-48ac8a23ef1e",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 17,
+              "y": 7
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 17,
+              "y": 8
+            }
+          },
+          "7aa2af0e-3b54-4720-a334-cc83fa9255ab": {
+            "mergedUnitUuids": [],
+            "uuid": "7aa2af0e-3b54-4720-a334-cc83fa9255ab",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 18,
+              "y": 10
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 18,
+              "y": 11
+            }
+          },
+          "a1b8615a-08e2-4d8b-b202-6857bc18cfc3": {
+            "mergedUnitUuids": [],
+            "uuid": "a1b8615a-08e2-4d8b-b202-6857bc18cfc3",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 16
+            },
+            "lastMoveResult": "NEWLY_SPAWNED",
+            "position": {
+              "x": 15,
+              "y": 15
+            }
+          },
+          "7623df74-ec79-489a-9729-8817e01e1073": {
+            "mergedUnitUuids": [],
+            "uuid": "7623df74-ec79-489a-9729-8817e01e1073",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 4
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 5
+            }
+          },
+          "3da715d3-c8c8-4659-af29-0275c9048753": {
+            "mergedUnitUuids": [],
+            "uuid": "3da715d3-c8c8-4659-af29-0275c9048753",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 13
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 14
+            }
+          },
+          "ebbf7cdf-3206-4c70-af39-7b5be24c5357": {
+            "mergedUnitUuids": [],
+            "uuid": "ebbf7cdf-3206-4c70-af39-7b5be24c5357",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 1,
+              "y": 17
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 0,
+              "y": 17
+            }
+          },
+          "226e3a22-f1ca-44c4-a882-612dba323e91": {
+            "mergedUnitUuids": [],
+            "uuid": "226e3a22-f1ca-44c4-a882-612dba323e91",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 13
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 13,
+              "y": 14
+            }
+          }
+        }
+      }
+    },
+    {
+      "PythonAI_1": {
+        "uuidToCoreMap": {
+          "93a99860-ff25-40d6-bd08-def67f4bcf9b": {
+            "uuid": "93a99860-ff25-40d6-bd08-def67f4bcf9b",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 5,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "9b54afee-df06-4cc1-b22f-f477c0e02bb0": {
+            "uuid": "9b54afee-df06-4cc1-b22f-f477c0e02bb0",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 6,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "164da7d8-45b8-4ffa-8b5d-3ffc19c8b5a5": {
+            "uuid": "164da7d8-45b8-4ffa-8b5d-3ffc19c8b5a5",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 10,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "797d0f8d-ccad-4d48-b793-f79b304d39ba": {
+            "uuid": "797d0f8d-ccad-4d48-b793-f79b304d39ba",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "bce9f8e7-b7cb-487b-b7f1-f58065959fe3": {
+            "uuid": "bce9f8e7-b7cb-487b-b7f1-f58065959fe3",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 11,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "0d31a446-f75f-499e-81b0-cabd0fba7bbe": {
+            "uuid": "0d31a446-f75f-499e-81b0-cabd0fba7bbe",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "170d47cb-4578-45f9-811c-49d875d7c965": {
+            "uuid": "170d47cb-4578-45f9-811c-49d875d7c965",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 4,
+              "y": 3
+            },
+            "lastMoveResult": "NEWLY_SPAWNED"
+          },
+          "c7dde6f5-e6eb-4076-b3c8-30888c5230f7": {
+            "uuid": "c7dde6f5-e6eb-4076-b3c8-30888c5230f7",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "78190120-8f9b-4f4a-883b-fb036334e85f": {
+            "uuid": "78190120-8f9b-4f4a-883b-fb036334e85f",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 9,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "7e3cdc63-aadd-4908-8fc0-bfef63ebbeea": {
+            "uuid": "7e3cdc63-aadd-4908-8fc0-bfef63ebbeea",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 7,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "fb48b4f6-2a40-484b-9c9d-7e57ed2ff521": {
+            "uuid": "fb48b4f6-2a40-484b-9c9d-7e57ed2ff521",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 8,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "c0f1a794-1ac5-4d89-a661-e8ae980f9eaf": {
+            "uuid": "c0f1a794-1ac5-4d89-a661-e8ae980f9eaf",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 16,
+              "y": 3
+            },
+            "lastMoveResult": "NEWLY_MERGED"
+          },
+          "3dc77436-d6cd-41bd-bdd9-fb37fea00150": {
+            "uuid": "3dc77436-d6cd-41bd-bdd9-fb37fea00150",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 12,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          }
+        }
+      },
+      "JavaAI": {
+        "uuidToCoreMap": {
+          "16bc23da-aad4-4962-98de-a560d2625553": {
+            "mergedUnitUuids": [],
+            "uuid": "16bc23da-aad4-4962-98de-a560d2625553",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 18,
+              "y": 18
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 17,
+              "y": 18
+            }
+          },
+          "c9deb41b-3708-4606-960f-1762abe4b287": {
+            "mergedUnitUuids": [],
+            "uuid": "c9deb41b-3708-4606-960f-1762abe4b287",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 16,
+              "y": 0
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 0
+            }
+          },
+          "3db8041c-983f-4dd1-86bf-e2d0761afec8": {
+            "mergedUnitUuids": [],
+            "uuid": "3db8041c-983f-4dd1-86bf-e2d0761afec8",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 12
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 13
+            }
+          },
+          "b228a1f1-6eee-4a12-8447-990d1d537fff": {
+            "mergedUnitUuids": [],
+            "uuid": "b228a1f1-6eee-4a12-8447-990d1d537fff",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 16
+            },
+            "lastMoveResult": "NEWLY_SPAWNED",
+            "position": {
+              "x": 15,
+              "y": 15
+            }
+          },
+          "b6127f7b-8259-4ebf-9ecf-28aac6442c72": {
+            "mergedUnitUuids": [],
+            "uuid": "b6127f7b-8259-4ebf-9ecf-28aac6442c72",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 0,
+              "y": 11
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 0,
+              "y": 12
+            }
+          },
+          "a7959888-d49f-40ee-88b2-3b07a8a36d8d": {
+            "mergedUnitUuids": [],
+            "uuid": "a7959888-d49f-40ee-88b2-3b07a8a36d8d",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 4
+            }
+          },
+          "8a56fe56-c37a-4c95-bcb3-48ac8a23ef1e": {
+            "mergedUnitUuids": [],
+            "uuid": "8a56fe56-c37a-4c95-bcb3-48ac8a23ef1e",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 17,
+              "y": 6
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 17,
+              "y": 7
+            }
+          },
+          "7aa2af0e-3b54-4720-a334-cc83fa9255ab": {
+            "mergedUnitUuids": [],
+            "uuid": "7aa2af0e-3b54-4720-a334-cc83fa9255ab",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 18,
+              "y": 9
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 18,
+              "y": 10
+            }
+          },
+          "a1b8615a-08e2-4d8b-b202-6857bc18cfc3": {
+            "mergedUnitUuids": [],
+            "uuid": "a1b8615a-08e2-4d8b-b202-6857bc18cfc3",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 16
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 16
+            }
+          },
+          "7623df74-ec79-489a-9729-8817e01e1073": {
+            "mergedUnitUuids": [],
+            "uuid": "7623df74-ec79-489a-9729-8817e01e1073",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 4
+            }
+          },
+          "3da715d3-c8c8-4659-af29-0275c9048753": {
+            "mergedUnitUuids": [],
+            "uuid": "3da715d3-c8c8-4659-af29-0275c9048753",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 12
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 13
+            }
+          },
+          "ebbf7cdf-3206-4c70-af39-7b5be24c5357": {
+            "mergedUnitUuids": [],
+            "uuid": "ebbf7cdf-3206-4c70-af39-7b5be24c5357",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 1,
+              "y": 16
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 1,
+              "y": 17
+            }
+          },
+          "226e3a22-f1ca-44c4-a882-612dba323e91": {
+            "mergedUnitUuids": [],
+            "uuid": "226e3a22-f1ca-44c4-a882-612dba323e91",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 12
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 13,
+              "y": 13
+            }
+          }
+        }
+      }
+    },
+    {
+      "PythonAI_1": {
+        "uuidToCoreMap": {
+          "78190120-8f9b-4f4a-883b-fb036334e85f": {
+            "uuid": "78190120-8f9b-4f4a-883b-fb036334e85f",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 10,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "93a99860-ff25-40d6-bd08-def67f4bcf9b": {
+            "uuid": "93a99860-ff25-40d6-bd08-def67f4bcf9b",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 6,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "7e3cdc63-aadd-4908-8fc0-bfef63ebbeea": {
+            "uuid": "7e3cdc63-aadd-4908-8fc0-bfef63ebbeea",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 8,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "fb48b4f6-2a40-484b-9c9d-7e57ed2ff521": {
+            "uuid": "fb48b4f6-2a40-484b-9c9d-7e57ed2ff521",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 9,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "9b54afee-df06-4cc1-b22f-f477c0e02bb0": {
+            "uuid": "9b54afee-df06-4cc1-b22f-f477c0e02bb0",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 7,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "164da7d8-45b8-4ffa-8b5d-3ffc19c8b5a5": {
+            "uuid": "164da7d8-45b8-4ffa-8b5d-3ffc19c8b5a5",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 11,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "0f71b0ca-0f36-46e3-9b27-32e60b15f4cc": {
+            "uuid": "0f71b0ca-0f36-46e3-9b27-32e60b15f4cc",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 4,
+              "y": 3
+            },
+            "lastMoveResult": "NEWLY_SPAWNED"
+          },
+          "170d47cb-4578-45f9-811c-49d875d7c965": {
+            "uuid": "170d47cb-4578-45f9-811c-49d875d7c965",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 5,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "bce9f8e7-b7cb-487b-b7f1-f58065959fe3": {
+            "uuid": "bce9f8e7-b7cb-487b-b7f1-f58065959fe3",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 12,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "68a9f628-d764-4cd8-97bb-7100908ebf74": {
+            "uuid": "68a9f628-d764-4cd8-97bb-7100908ebf74",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 3
+            },
+            "lastMoveResult": "NEWLY_MERGED"
+          },
+          "3dc77436-d6cd-41bd-bdd9-fb37fea00150": {
+            "uuid": "3dc77436-d6cd-41bd-bdd9-fb37fea00150",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          }
+        }
+      },
+      "JavaAI": {
+        "uuidToCoreMap": {
+          "16bc23da-aad4-4962-98de-a560d2625553": {
+            "mergedUnitUuids": [],
+            "uuid": "16bc23da-aad4-4962-98de-a560d2625553",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 0,
+              "y": 18
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 18,
+              "y": 18
+            }
+          },
+          "c9deb41b-3708-4606-960f-1762abe4b287": {
+            "mergedUnitUuids": [],
+            "uuid": "c9deb41b-3708-4606-960f-1762abe4b287",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 17,
+              "y": 0
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 16,
+              "y": 0
+            }
+          },
+          "3db8041c-983f-4dd1-86bf-e2d0761afec8": {
+            "mergedUnitUuids": [],
+            "uuid": "3db8041c-983f-4dd1-86bf-e2d0761afec8",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 11
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 12
+            }
+          },
+          "f0b92161-708a-4b80-855a-b7c828a2a3e8": {
+            "mergedUnitUuids": [],
+            "uuid": "f0b92161-708a-4b80-855a-b7c828a2a3e8",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 16
+            },
+            "lastMoveResult": "NEWLY_SPAWNED",
+            "position": {
+              "x": 15,
+              "y": 15
+            }
+          },
+          "b228a1f1-6eee-4a12-8447-990d1d537fff": {
+            "mergedUnitUuids": [],
+            "uuid": "b228a1f1-6eee-4a12-8447-990d1d537fff",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 16
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 16
+            }
+          },
+          "b6127f7b-8259-4ebf-9ecf-28aac6442c72": {
+            "mergedUnitUuids": [],
+            "uuid": "b6127f7b-8259-4ebf-9ecf-28aac6442c72",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 0,
+              "y": 10
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 0,
+              "y": 11
+            }
+          },
+          "a7959888-d49f-40ee-88b2-3b07a8a36d8d": {
+            "mergedUnitUuids": [],
+            "uuid": "a7959888-d49f-40ee-88b2-3b07a8a36d8d",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 2
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 3
+            }
+          },
+          "8a56fe56-c37a-4c95-bcb3-48ac8a23ef1e": {
+            "mergedUnitUuids": [],
+            "uuid": "8a56fe56-c37a-4c95-bcb3-48ac8a23ef1e",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 17,
+              "y": 5
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 17,
+              "y": 6
+            }
+          },
+          "7aa2af0e-3b54-4720-a334-cc83fa9255ab": {
+            "mergedUnitUuids": [],
+            "uuid": "7aa2af0e-3b54-4720-a334-cc83fa9255ab",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 18,
+              "y": 8
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 18,
+              "y": 9
+            }
+          },
+          "a1b8615a-08e2-4d8b-b202-6857bc18cfc3": {
+            "mergedUnitUuids": [],
+            "uuid": "a1b8615a-08e2-4d8b-b202-6857bc18cfc3",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 16
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 16
+            }
+          },
+          "3da715d3-c8c8-4659-af29-0275c9048753": {
+            "mergedUnitUuids": [],
+            "uuid": "3da715d3-c8c8-4659-af29-0275c9048753",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 11
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 12
+            }
+          },
+          "ebbf7cdf-3206-4c70-af39-7b5be24c5357": {
+            "mergedUnitUuids": [],
+            "uuid": "ebbf7cdf-3206-4c70-af39-7b5be24c5357",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 1,
+              "y": 15
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 1,
+              "y": 16
+            }
+          },
+          "226e3a22-f1ca-44c4-a882-612dba323e91": {
+            "mergedUnitUuids": [],
+            "uuid": "226e3a22-f1ca-44c4-a882-612dba323e91",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 11
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 13,
+              "y": 12
+            }
+          }
+        }
+      }
+    },
+    {
+      "PythonAI_1": {
+        "uuidToCoreMap": {
+          "93a99860-ff25-40d6-bd08-def67f4bcf9b": {
+            "uuid": "93a99860-ff25-40d6-bd08-def67f4bcf9b",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 7,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "9b54afee-df06-4cc1-b22f-f477c0e02bb0": {
+            "uuid": "9b54afee-df06-4cc1-b22f-f477c0e02bb0",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 8,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "164da7d8-45b8-4ffa-8b5d-3ffc19c8b5a5": {
+            "uuid": "164da7d8-45b8-4ffa-8b5d-3ffc19c8b5a5",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 12,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "0f71b0ca-0f36-46e3-9b27-32e60b15f4cc": {
+            "uuid": "0f71b0ca-0f36-46e3-9b27-32e60b15f4cc",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 5,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "bde63ac3-b701-4c81-843f-af04cecab628": {
+            "uuid": "bde63ac3-b701-4c81-843f-af04cecab628",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 4,
+              "y": 3
+            },
+            "lastMoveResult": "NEWLY_SPAWNED"
+          },
+          "bce9f8e7-b7cb-487b-b7f1-f58065959fe3": {
+            "uuid": "bce9f8e7-b7cb-487b-b7f1-f58065959fe3",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "170d47cb-4578-45f9-811c-49d875d7c965": {
+            "uuid": "170d47cb-4578-45f9-811c-49d875d7c965",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 6,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "68a9f628-d764-4cd8-97bb-7100908ebf74": {
+            "uuid": "68a9f628-d764-4cd8-97bb-7100908ebf74",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "78190120-8f9b-4f4a-883b-fb036334e85f": {
+            "uuid": "78190120-8f9b-4f4a-883b-fb036334e85f",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 11,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "7e3cdc63-aadd-4908-8fc0-bfef63ebbeea": {
+            "uuid": "7e3cdc63-aadd-4908-8fc0-bfef63ebbeea",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 9,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "fb48b4f6-2a40-484b-9c9d-7e57ed2ff521": {
+            "uuid": "fb48b4f6-2a40-484b-9c9d-7e57ed2ff521",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 10,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "3dc77436-d6cd-41bd-bdd9-fb37fea00150": {
+            "uuid": "3dc77436-d6cd-41bd-bdd9-fb37fea00150",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          }
+        }
+      },
+      "JavaAI": {
+        "uuidToCoreMap": {
+          "16bc23da-aad4-4962-98de-a560d2625553": {
+            "mergedUnitUuids": [],
+            "uuid": "16bc23da-aad4-4962-98de-a560d2625553",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 1,
+              "y": 18
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 0,
+              "y": 18
+            }
+          },
+          "c9deb41b-3708-4606-960f-1762abe4b287": {
+            "mergedUnitUuids": [],
+            "uuid": "c9deb41b-3708-4606-960f-1762abe4b287",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 18,
+              "y": 0
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 17,
+              "y": 0
+            }
+          },
+          "3db8041c-983f-4dd1-86bf-e2d0761afec8": {
+            "mergedUnitUuids": [],
+            "uuid": "3db8041c-983f-4dd1-86bf-e2d0761afec8",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 10
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 11
+            }
+          },
+          "f0b92161-708a-4b80-855a-b7c828a2a3e8": {
+            "mergedUnitUuids": [],
+            "uuid": "f0b92161-708a-4b80-855a-b7c828a2a3e8",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 17
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 16
+            }
+          },
+          "b228a1f1-6eee-4a12-8447-990d1d537fff": {
+            "mergedUnitUuids": [],
+            "uuid": "b228a1f1-6eee-4a12-8447-990d1d537fff",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 17
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 16
+            }
+          },
+          "b6127f7b-8259-4ebf-9ecf-28aac6442c72": {
+            "mergedUnitUuids": [],
+            "uuid": "b6127f7b-8259-4ebf-9ecf-28aac6442c72",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 0,
+              "y": 9
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 0,
+              "y": 10
+            }
+          },
+          "a7959888-d49f-40ee-88b2-3b07a8a36d8d": {
+            "mergedUnitUuids": [],
+            "uuid": "a7959888-d49f-40ee-88b2-3b07a8a36d8d",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 1
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 2
+            }
+          },
+          "8a56fe56-c37a-4c95-bcb3-48ac8a23ef1e": {
+            "mergedUnitUuids": [],
+            "uuid": "8a56fe56-c37a-4c95-bcb3-48ac8a23ef1e",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 17,
+              "y": 4
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 17,
+              "y": 5
+            }
+          },
+          "7aa2af0e-3b54-4720-a334-cc83fa9255ab": {
+            "mergedUnitUuids": [],
+            "uuid": "7aa2af0e-3b54-4720-a334-cc83fa9255ab",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 18,
+              "y": 7
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 18,
+              "y": 8
+            }
+          },
+          "a1b8615a-08e2-4d8b-b202-6857bc18cfc3": {
+            "mergedUnitUuids": [],
+            "uuid": "a1b8615a-08e2-4d8b-b202-6857bc18cfc3",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 17
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 13,
+              "y": 16
+            }
+          },
+          "3da715d3-c8c8-4659-af29-0275c9048753": {
+            "mergedUnitUuids": [],
+            "uuid": "3da715d3-c8c8-4659-af29-0275c9048753",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 10
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 11
+            }
+          },
+          "ebbf7cdf-3206-4c70-af39-7b5be24c5357": {
+            "mergedUnitUuids": [],
+            "uuid": "ebbf7cdf-3206-4c70-af39-7b5be24c5357",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 1,
+              "y": 14
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 1,
+              "y": 15
+            }
+          },
+          "c4f078da-c36e-41e8-87cd-f2dcc97995b2": {
+            "mergedUnitUuids": [],
+            "uuid": "c4f078da-c36e-41e8-87cd-f2dcc97995b2",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 15
+            },
+            "lastMoveResult": "NEWLY_SPAWNED",
+            "position": {
+              "x": 15,
+              "y": 15
+            }
+          },
+          "226e3a22-f1ca-44c4-a882-612dba323e91": {
+            "mergedUnitUuids": [],
+            "uuid": "226e3a22-f1ca-44c4-a882-612dba323e91",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 10
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 13,
+              "y": 11
+            }
+          }
+        }
+      }
+    },
+    {
+      "PythonAI_1": {
+        "uuidToCoreMap": {
+          "93a99860-ff25-40d6-bd08-def67f4bcf9b": {
+            "uuid": "93a99860-ff25-40d6-bd08-def67f4bcf9b",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 8,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "2e4e299e-bbb5-4154-8cce-62ac766e202f": {
+            "uuid": "2e4e299e-bbb5-4154-8cce-62ac766e202f",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 4,
+              "y": 3
+            },
+            "lastMoveResult": "NEWLY_SPAWNED"
+          },
+          "9b54afee-df06-4cc1-b22f-f477c0e02bb0": {
+            "uuid": "9b54afee-df06-4cc1-b22f-f477c0e02bb0",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 9,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "164da7d8-45b8-4ffa-8b5d-3ffc19c8b5a5": {
+            "uuid": "164da7d8-45b8-4ffa-8b5d-3ffc19c8b5a5",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "0f71b0ca-0f36-46e3-9b27-32e60b15f4cc": {
+            "uuid": "0f71b0ca-0f36-46e3-9b27-32e60b15f4cc",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 6,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "bde63ac3-b701-4c81-843f-af04cecab628": {
+            "uuid": "bde63ac3-b701-4c81-843f-af04cecab628",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 5,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "bce9f8e7-b7cb-487b-b7f1-f58065959fe3": {
+            "uuid": "bce9f8e7-b7cb-487b-b7f1-f58065959fe3",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "68a9f628-d764-4cd8-97bb-7100908ebf74": {
+            "uuid": "68a9f628-d764-4cd8-97bb-7100908ebf74",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 16,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "78190120-8f9b-4f4a-883b-fb036334e85f": {
+            "uuid": "78190120-8f9b-4f4a-883b-fb036334e85f",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 12,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "7e3cdc63-aadd-4908-8fc0-bfef63ebbeea": {
+            "uuid": "7e3cdc63-aadd-4908-8fc0-bfef63ebbeea",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 10,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "fb48b4f6-2a40-484b-9c9d-7e57ed2ff521": {
+            "uuid": "fb48b4f6-2a40-484b-9c9d-7e57ed2ff521",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 11,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "170d47cb-4578-45f9-811c-49d875d7c965": {
+            "uuid": "170d47cb-4578-45f9-811c-49d875d7c965",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 7,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "3dc77436-d6cd-41bd-bdd9-fb37fea00150": {
+            "uuid": "3dc77436-d6cd-41bd-bdd9-fb37fea00150",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          }
+        }
+      },
+      "JavaAI": {
+        "uuidToCoreMap": {
+          "16bc23da-aad4-4962-98de-a560d2625553": {
+            "mergedUnitUuids": [],
+            "uuid": "16bc23da-aad4-4962-98de-a560d2625553",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 2,
+              "y": 18
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 1,
+              "y": 18
+            }
+          },
+          "c9deb41b-3708-4606-960f-1762abe4b287": {
+            "mergedUnitUuids": [],
+            "uuid": "c9deb41b-3708-4606-960f-1762abe4b287",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 0,
+              "y": 0
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 18,
+              "y": 0
+            }
+          },
+          "3db8041c-983f-4dd1-86bf-e2d0761afec8": {
+            "mergedUnitUuids": [],
+            "uuid": "3db8041c-983f-4dd1-86bf-e2d0761afec8",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 9
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 10
+            }
+          },
+          "f0b92161-708a-4b80-855a-b7c828a2a3e8": {
+            "mergedUnitUuids": [],
+            "uuid": "f0b92161-708a-4b80-855a-b7c828a2a3e8",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 18
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 17
+            }
+          },
+          "b228a1f1-6eee-4a12-8447-990d1d537fff": {
+            "mergedUnitUuids": [],
+            "uuid": "b228a1f1-6eee-4a12-8447-990d1d537fff",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 18
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 17
+            }
+          },
+          "b6127f7b-8259-4ebf-9ecf-28aac6442c72": {
+            "mergedUnitUuids": [],
+            "uuid": "b6127f7b-8259-4ebf-9ecf-28aac6442c72",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 0,
+              "y": 8
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 0,
+              "y": 9
+            }
+          },
+          "a7959888-d49f-40ee-88b2-3b07a8a36d8d": {
+            "mergedUnitUuids": [],
+            "uuid": "a7959888-d49f-40ee-88b2-3b07a8a36d8d",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 16,
+              "y": 1
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 1
+            }
+          },
+          "8a56fe56-c37a-4c95-bcb3-48ac8a23ef1e": {
+            "mergedUnitUuids": [],
+            "uuid": "8a56fe56-c37a-4c95-bcb3-48ac8a23ef1e",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 17,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 17,
+              "y": 4
+            }
+          },
+          "7aa2af0e-3b54-4720-a334-cc83fa9255ab": {
+            "mergedUnitUuids": [],
+            "uuid": "7aa2af0e-3b54-4720-a334-cc83fa9255ab",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 18,
+              "y": 6
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 18,
+              "y": 7
+            }
+          },
+          "a1b8615a-08e2-4d8b-b202-6857bc18cfc3": {
+            "mergedUnitUuids": [],
+            "uuid": "a1b8615a-08e2-4d8b-b202-6857bc18cfc3",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 18
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 13,
+              "y": 17
+            }
+          },
+          "3da715d3-c8c8-4659-af29-0275c9048753": {
+            "mergedUnitUuids": [],
+            "uuid": "3da715d3-c8c8-4659-af29-0275c9048753",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 9
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 10
+            }
+          },
+          "ebbf7cdf-3206-4c70-af39-7b5be24c5357": {
+            "mergedUnitUuids": [],
+            "uuid": "ebbf7cdf-3206-4c70-af39-7b5be24c5357",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 1,
+              "y": 13
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 1,
+              "y": 14
+            }
+          },
+          "c4f078da-c36e-41e8-87cd-f2dcc97995b2": {
+            "mergedUnitUuids": [],
+            "uuid": "c4f078da-c36e-41e8-87cd-f2dcc97995b2",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 15
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 15
+            }
+          },
+          "226e3a22-f1ca-44c4-a882-612dba323e91": {
+            "mergedUnitUuids": [],
+            "uuid": "226e3a22-f1ca-44c4-a882-612dba323e91",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 9
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 13,
+              "y": 10
+            }
+          },
+          "9da46df4-8882-445c-b94d-16e45e80dcf5": {
+            "mergedUnitUuids": [],
+            "uuid": "9da46df4-8882-445c-b94d-16e45e80dcf5",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 15
+            },
+            "lastMoveResult": "NEWLY_SPAWNED",
+            "position": {
+              "x": 15,
+              "y": 15
+            }
+          }
+        }
+      }
+    },
+    {
+      "PythonAI_1": {
+        "uuidToCoreMap": {
+          "93a99860-ff25-40d6-bd08-def67f4bcf9b": {
+            "uuid": "93a99860-ff25-40d6-bd08-def67f4bcf9b",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 9,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "2e4e299e-bbb5-4154-8cce-62ac766e202f": {
+            "uuid": "2e4e299e-bbb5-4154-8cce-62ac766e202f",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 5,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "9b54afee-df06-4cc1-b22f-f477c0e02bb0": {
+            "uuid": "9b54afee-df06-4cc1-b22f-f477c0e02bb0",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 10,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "164da7d8-45b8-4ffa-8b5d-3ffc19c8b5a5": {
+            "uuid": "164da7d8-45b8-4ffa-8b5d-3ffc19c8b5a5",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "0f71b0ca-0f36-46e3-9b27-32e60b15f4cc": {
+            "uuid": "0f71b0ca-0f36-46e3-9b27-32e60b15f4cc",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 7,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "bde63ac3-b701-4c81-843f-af04cecab628": {
+            "uuid": "bde63ac3-b701-4c81-843f-af04cecab628",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 6,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "bce9f8e7-b7cb-487b-b7f1-f58065959fe3": {
+            "uuid": "bce9f8e7-b7cb-487b-b7f1-f58065959fe3",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "68a9f628-d764-4cd8-97bb-7100908ebf74": {
+            "uuid": "68a9f628-d764-4cd8-97bb-7100908ebf74",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 17,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "78190120-8f9b-4f4a-883b-fb036334e85f": {
+            "uuid": "78190120-8f9b-4f4a-883b-fb036334e85f",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "7e3cdc63-aadd-4908-8fc0-bfef63ebbeea": {
+            "uuid": "7e3cdc63-aadd-4908-8fc0-bfef63ebbeea",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 11,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "fb48b4f6-2a40-484b-9c9d-7e57ed2ff521": {
+            "uuid": "fb48b4f6-2a40-484b-9c9d-7e57ed2ff521",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 12,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "29173219-9572-4d08-a704-de4b59a373de": {
+            "uuid": "29173219-9572-4d08-a704-de4b59a373de",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 4,
+              "y": 3
+            },
+            "lastMoveResult": "NEWLY_SPAWNED"
+          },
+          "170d47cb-4578-45f9-811c-49d875d7c965": {
+            "uuid": "170d47cb-4578-45f9-811c-49d875d7c965",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 8,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "3dc77436-d6cd-41bd-bdd9-fb37fea00150": {
+            "uuid": "3dc77436-d6cd-41bd-bdd9-fb37fea00150",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 16,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          }
+        }
+      },
+      "JavaAI": {
+        "uuidToCoreMap": {
+          "16bc23da-aad4-4962-98de-a560d2625553": {
+            "mergedUnitUuids": [],
+            "uuid": "16bc23da-aad4-4962-98de-a560d2625553",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 2,
+              "y": 17
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 2,
+              "y": 18
+            }
+          },
+          "c9deb41b-3708-4606-960f-1762abe4b287": {
+            "mergedUnitUuids": [],
+            "uuid": "c9deb41b-3708-4606-960f-1762abe4b287",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 1,
+              "y": 0
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "3db8041c-983f-4dd1-86bf-e2d0761afec8": {
+            "mergedUnitUuids": [],
+            "uuid": "3db8041c-983f-4dd1-86bf-e2d0761afec8",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 8
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 9
+            }
+          },
+          "f0b92161-708a-4b80-855a-b7c828a2a3e8": {
+            "mergedUnitUuids": [],
+            "uuid": "f0b92161-708a-4b80-855a-b7c828a2a3e8",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 0
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 18
+            }
+          },
+          "b228a1f1-6eee-4a12-8447-990d1d537fff": {
+            "mergedUnitUuids": [],
+            "uuid": "b228a1f1-6eee-4a12-8447-990d1d537fff",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 0
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 18
+            }
+          },
+          "b6127f7b-8259-4ebf-9ecf-28aac6442c72": {
+            "mergedUnitUuids": [],
+            "uuid": "b6127f7b-8259-4ebf-9ecf-28aac6442c72",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 0,
+              "y": 7
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 0,
+              "y": 8
+            }
+          },
+          "a7959888-d49f-40ee-88b2-3b07a8a36d8d": {
+            "mergedUnitUuids": [],
+            "uuid": "a7959888-d49f-40ee-88b2-3b07a8a36d8d",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 17,
+              "y": 1
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 16,
+              "y": 1
+            }
+          },
+          "8a56fe56-c37a-4c95-bcb3-48ac8a23ef1e": {
+            "mergedUnitUuids": [],
+            "uuid": "8a56fe56-c37a-4c95-bcb3-48ac8a23ef1e",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 17,
+              "y": 2
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 17,
+              "y": 3
+            }
+          },
+          "7aa2af0e-3b54-4720-a334-cc83fa9255ab": {
+            "mergedUnitUuids": [],
+            "uuid": "7aa2af0e-3b54-4720-a334-cc83fa9255ab",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 18,
+              "y": 5
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 18,
+              "y": 6
+            }
+          },
+          "a1b8615a-08e2-4d8b-b202-6857bc18cfc3": {
+            "mergedUnitUuids": [],
+            "uuid": "a1b8615a-08e2-4d8b-b202-6857bc18cfc3",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 0
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 13,
+              "y": 18
+            }
+          },
+          "3da715d3-c8c8-4659-af29-0275c9048753": {
+            "mergedUnitUuids": [],
+            "uuid": "3da715d3-c8c8-4659-af29-0275c9048753",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 8
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 9
+            }
+          },
+          "ebbf7cdf-3206-4c70-af39-7b5be24c5357": {
+            "mergedUnitUuids": [],
+            "uuid": "ebbf7cdf-3206-4c70-af39-7b5be24c5357",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 1,
+              "y": 12
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 1,
+              "y": 13
+            }
+          },
+          "c4f078da-c36e-41e8-87cd-f2dcc97995b2": {
+            "mergedUnitUuids": [],
+            "uuid": "c4f078da-c36e-41e8-87cd-f2dcc97995b2",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 12,
+              "y": 15
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 13,
+              "y": 15
+            }
+          },
+          "226e3a22-f1ca-44c4-a882-612dba323e91": {
+            "mergedUnitUuids": [],
+            "uuid": "226e3a22-f1ca-44c4-a882-612dba323e91",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 8
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 13,
+              "y": 9
+            }
+          },
+          "9da46df4-8882-445c-b94d-16e45e80dcf5": {
+            "mergedUnitUuids": [],
+            "uuid": "9da46df4-8882-445c-b94d-16e45e80dcf5",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 15
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 15
+            }
+          },
+          "513faf36-953e-481f-b81e-6fd745eb35d3": {
+            "mergedUnitUuids": [],
+            "uuid": "513faf36-953e-481f-b81e-6fd745eb35d3",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 15
+            },
+            "lastMoveResult": "NEWLY_SPAWNED",
+            "position": {
+              "x": 15,
+              "y": 15
+            }
+          }
+        }
+      }
+    },
+    {
+      "PythonAI_1": {
+        "uuidToCoreMap": {
+          "93a99860-ff25-40d6-bd08-def67f4bcf9b": {
+            "uuid": "93a99860-ff25-40d6-bd08-def67f4bcf9b",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 10,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "2e4e299e-bbb5-4154-8cce-62ac766e202f": {
+            "uuid": "2e4e299e-bbb5-4154-8cce-62ac766e202f",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 6,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "9b54afee-df06-4cc1-b22f-f477c0e02bb0": {
+            "uuid": "9b54afee-df06-4cc1-b22f-f477c0e02bb0",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 11,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "164da7d8-45b8-4ffa-8b5d-3ffc19c8b5a5": {
+            "uuid": "164da7d8-45b8-4ffa-8b5d-3ffc19c8b5a5",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "0f71b0ca-0f36-46e3-9b27-32e60b15f4cc": {
+            "uuid": "0f71b0ca-0f36-46e3-9b27-32e60b15f4cc",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 8,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "bde63ac3-b701-4c81-843f-af04cecab628": {
+            "uuid": "bde63ac3-b701-4c81-843f-af04cecab628",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 7,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "bce9f8e7-b7cb-487b-b7f1-f58065959fe3": {
+            "uuid": "bce9f8e7-b7cb-487b-b7f1-f58065959fe3",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 16,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "68a9f628-d764-4cd8-97bb-7100908ebf74": {
+            "uuid": "68a9f628-d764-4cd8-97bb-7100908ebf74",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 18,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "bdad18d5-6853-4493-aed9-4cf6a8a271f2": {
+            "uuid": "bdad18d5-6853-4493-aed9-4cf6a8a271f2",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 4,
+              "y": 3
+            },
+            "lastMoveResult": "NEWLY_SPAWNED"
+          },
+          "78190120-8f9b-4f4a-883b-fb036334e85f": {
+            "uuid": "78190120-8f9b-4f4a-883b-fb036334e85f",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "7e3cdc63-aadd-4908-8fc0-bfef63ebbeea": {
+            "uuid": "7e3cdc63-aadd-4908-8fc0-bfef63ebbeea",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 12,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "fb48b4f6-2a40-484b-9c9d-7e57ed2ff521": {
+            "uuid": "fb48b4f6-2a40-484b-9c9d-7e57ed2ff521",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "29173219-9572-4d08-a704-de4b59a373de": {
+            "uuid": "29173219-9572-4d08-a704-de4b59a373de",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 5,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "170d47cb-4578-45f9-811c-49d875d7c965": {
+            "uuid": "170d47cb-4578-45f9-811c-49d875d7c965",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 9,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "3dc77436-d6cd-41bd-bdd9-fb37fea00150": {
+            "uuid": "3dc77436-d6cd-41bd-bdd9-fb37fea00150",
+            "team": "BLUE",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 17,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          }
+        }
+      },
+      "JavaAI": {
+        "uuidToCoreMap": {
+          "16bc23da-aad4-4962-98de-a560d2625553": {
+            "mergedUnitUuids": [],
+            "uuid": "16bc23da-aad4-4962-98de-a560d2625553",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 2,
+              "y": 16
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 2,
+              "y": 17
+            }
+          },
+          "c9deb41b-3708-4606-960f-1762abe4b287": {
+            "mergedUnitUuids": [],
+            "uuid": "c9deb41b-3708-4606-960f-1762abe4b287",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 2,
+              "y": 0
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 1,
+              "y": 0
+            }
+          },
+          "3db8041c-983f-4dd1-86bf-e2d0761afec8": {
+            "mergedUnitUuids": [],
+            "uuid": "3db8041c-983f-4dd1-86bf-e2d0761afec8",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 7
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 8
+            }
+          },
+          "f0b92161-708a-4b80-855a-b7c828a2a3e8": {
+            "mergedUnitUuids": [],
+            "uuid": "f0b92161-708a-4b80-855a-b7c828a2a3e8",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 1
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 0
+            }
+          },
+          "b228a1f1-6eee-4a12-8447-990d1d537fff": {
+            "mergedUnitUuids": [],
+            "uuid": "b228a1f1-6eee-4a12-8447-990d1d537fff",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 1
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 0
+            }
+          },
+          "b6127f7b-8259-4ebf-9ecf-28aac6442c72": {
+            "mergedUnitUuids": [],
+            "uuid": "b6127f7b-8259-4ebf-9ecf-28aac6442c72",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 0,
+              "y": 6
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 0,
+              "y": 7
+            }
+          },
+          "a7959888-d49f-40ee-88b2-3b07a8a36d8d": {
+            "mergedUnitUuids": [],
+            "uuid": "a7959888-d49f-40ee-88b2-3b07a8a36d8d",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 18,
+              "y": 1
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 17,
+              "y": 1
+            }
+          },
+          "7aa2af0e-3b54-4720-a334-cc83fa9255ab": {
+            "mergedUnitUuids": [],
+            "uuid": "7aa2af0e-3b54-4720-a334-cc83fa9255ab",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 18,
+              "y": 4
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 18,
+              "y": 5
+            }
+          },
+          "a1b8615a-08e2-4d8b-b202-6857bc18cfc3": {
+            "mergedUnitUuids": [],
+            "uuid": "a1b8615a-08e2-4d8b-b202-6857bc18cfc3",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 1
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 13,
+              "y": 0
+            }
+          },
+          "70081df7-5e7c-476a-85b8-27f27013bc29": {
+            "mergedUnitUuids": [],
+            "uuid": "70081df7-5e7c-476a-85b8-27f27013bc29",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 14
+            },
+            "lastMoveResult": "NEWLY_SPAWNED",
+            "position": {
+              "x": 15,
+              "y": 15
+            }
+          },
+          "3da715d3-c8c8-4659-af29-0275c9048753": {
+            "mergedUnitUuids": [],
+            "uuid": "3da715d3-c8c8-4659-af29-0275c9048753",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 7
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 8
+            }
+          },
+          "ebbf7cdf-3206-4c70-af39-7b5be24c5357": {
+            "mergedUnitUuids": [],
+            "uuid": "ebbf7cdf-3206-4c70-af39-7b5be24c5357",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 1,
+              "y": 11
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 1,
+              "y": 12
+            }
+          },
+          "c4f078da-c36e-41e8-87cd-f2dcc97995b2": {
+            "mergedUnitUuids": [],
+            "uuid": "c4f078da-c36e-41e8-87cd-f2dcc97995b2",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 12,
+              "y": 14
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 12,
+              "y": 15
+            }
+          },
+          "226e3a22-f1ca-44c4-a882-612dba323e91": {
+            "mergedUnitUuids": [],
+            "uuid": "226e3a22-f1ca-44c4-a882-612dba323e91",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 7
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 13,
+              "y": 8
+            }
+          },
+          "9da46df4-8882-445c-b94d-16e45e80dcf5": {
+            "mergedUnitUuids": [],
+            "uuid": "9da46df4-8882-445c-b94d-16e45e80dcf5",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 14
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 13,
+              "y": 15
+            }
+          },
+          "513faf36-953e-481f-b81e-6fd745eb35d3": {
+            "mergedUnitUuids": [],
+            "uuid": "513faf36-953e-481f-b81e-6fd745eb35d3",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 14
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 15
+            }
+          }
+        }
+      }
+    },
+    {
+      "JavaAI": {
+        "uuidToCoreMap": {
+          "16bc23da-aad4-4962-98de-a560d2625553": {
+            "mergedUnitUuids": [],
+            "uuid": "16bc23da-aad4-4962-98de-a560d2625553",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 2,
+              "y": 15
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 2,
+              "y": 16
+            }
+          },
+          "c9deb41b-3708-4606-960f-1762abe4b287": {
+            "mergedUnitUuids": [],
+            "uuid": "c9deb41b-3708-4606-960f-1762abe4b287",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 3,
+              "y": 0
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 2,
+              "y": 0
+            }
+          },
+          "3db8041c-983f-4dd1-86bf-e2d0761afec8": {
+            "mergedUnitUuids": [],
+            "uuid": "3db8041c-983f-4dd1-86bf-e2d0761afec8",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 6
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 7
+            }
+          },
+          "f0b92161-708a-4b80-855a-b7c828a2a3e8": {
+            "mergedUnitUuids": [],
+            "uuid": "f0b92161-708a-4b80-855a-b7c828a2a3e8",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 16,
+              "y": 1
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 1
+            }
+          },
+          "b228a1f1-6eee-4a12-8447-990d1d537fff": {
+            "mergedUnitUuids": [],
+            "uuid": "b228a1f1-6eee-4a12-8447-990d1d537fff",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 2
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 1
+            }
+          },
+          "b6127f7b-8259-4ebf-9ecf-28aac6442c72": {
+            "mergedUnitUuids": [],
+            "uuid": "b6127f7b-8259-4ebf-9ecf-28aac6442c72",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 0,
+              "y": 5
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 0,
+              "y": 6
+            }
+          },
+          "a7959888-d49f-40ee-88b2-3b07a8a36d8d": {
+            "mergedUnitUuids": [],
+            "uuid": "a7959888-d49f-40ee-88b2-3b07a8a36d8d",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 0,
+              "y": 1
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 18,
+              "y": 1
+            }
+          },
+          "7aa2af0e-3b54-4720-a334-cc83fa9255ab": {
+            "mergedUnitUuids": [],
+            "uuid": "7aa2af0e-3b54-4720-a334-cc83fa9255ab",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 18,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 18,
+              "y": 4
+            }
+          },
+          "a1b8615a-08e2-4d8b-b202-6857bc18cfc3": {
+            "mergedUnitUuids": [],
+            "uuid": "a1b8615a-08e2-4d8b-b202-6857bc18cfc3",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 2
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 13,
+              "y": 1
+            }
+          },
+          "70081df7-5e7c-476a-85b8-27f27013bc29": {
+            "mergedUnitUuids": [],
+            "uuid": "70081df7-5e7c-476a-85b8-27f27013bc29",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 13
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 14
+            }
+          },
+          "3da715d3-c8c8-4659-af29-0275c9048753": {
+            "mergedUnitUuids": [],
+            "uuid": "3da715d3-c8c8-4659-af29-0275c9048753",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 6
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 7
+            }
+          },
+          "8ff2f8db-9684-4aee-af39-336c2864b09f": {
+            "mergedUnitUuids": [],
+            "uuid": "8ff2f8db-9684-4aee-af39-336c2864b09f",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 16
+            },
+            "lastMoveResult": "NEWLY_SPAWNED",
+            "position": {
+              "x": 15,
+              "y": 15
+            }
+          },
+          "ebbf7cdf-3206-4c70-af39-7b5be24c5357": {
+            "mergedUnitUuids": [],
+            "uuid": "ebbf7cdf-3206-4c70-af39-7b5be24c5357",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 1,
+              "y": 10
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 1,
+              "y": 11
+            }
+          },
+          "c4f078da-c36e-41e8-87cd-f2dcc97995b2": {
+            "mergedUnitUuids": [],
+            "uuid": "c4f078da-c36e-41e8-87cd-f2dcc97995b2",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 12,
+              "y": 13
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 12,
+              "y": 14
+            }
+          },
+          "226e3a22-f1ca-44c4-a882-612dba323e91": {
+            "mergedUnitUuids": [],
+            "uuid": "226e3a22-f1ca-44c4-a882-612dba323e91",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 6
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 13,
+              "y": 7
+            }
+          },
+          "9da46df4-8882-445c-b94d-16e45e80dcf5": {
+            "mergedUnitUuids": [],
+            "uuid": "9da46df4-8882-445c-b94d-16e45e80dcf5",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 13
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 13,
+              "y": 14
+            }
+          },
+          "513faf36-953e-481f-b81e-6fd745eb35d3": {
+            "mergedUnitUuids": [],
+            "uuid": "513faf36-953e-481f-b81e-6fd745eb35d3",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 13
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 14
+            }
+          }
+        }
+      }
+    },
+    {
+      "PythonAI_1": {
+        "uuidToCoreMap": {
+          "93a99860-ff25-40d6-bd08-def67f4bcf9b": {
+            "uuid": "93a99860-ff25-40d6-bd08-def67f4bcf9b",
+            "team": "BLUE",
+            "LF": 2,
+            "nextMoveTarget": {
+              "x": 11,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "2e4e299e-bbb5-4154-8cce-62ac766e202f": {
+            "uuid": "2e4e299e-bbb5-4154-8cce-62ac766e202f",
+            "team": "BLUE",
+            "LF": 2,
+            "nextMoveTarget": {
+              "x": 7,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "9b54afee-df06-4cc1-b22f-f477c0e02bb0": {
+            "uuid": "9b54afee-df06-4cc1-b22f-f477c0e02bb0",
+            "team": "BLUE",
+            "LF": 2,
+            "nextMoveTarget": {
+              "x": 12,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "164da7d8-45b8-4ffa-8b5d-3ffc19c8b5a5": {
+            "uuid": "164da7d8-45b8-4ffa-8b5d-3ffc19c8b5a5",
+            "team": "BLUE",
+            "LF": 2,
+            "nextMoveTarget": {
+              "x": 16,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "0f71b0ca-0f36-46e3-9b27-32e60b15f4cc": {
+            "uuid": "0f71b0ca-0f36-46e3-9b27-32e60b15f4cc",
+            "team": "BLUE",
+            "LF": 2,
+            "nextMoveTarget": {
+              "x": 9,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "bde63ac3-b701-4c81-843f-af04cecab628": {
+            "uuid": "bde63ac3-b701-4c81-843f-af04cecab628",
+            "team": "BLUE",
+            "LF": 2,
+            "nextMoveTarget": {
+              "x": 8,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "bce9f8e7-b7cb-487b-b7f1-f58065959fe3": {
+            "uuid": "bce9f8e7-b7cb-487b-b7f1-f58065959fe3",
+            "team": "BLUE",
+            "LF": 2,
+            "nextMoveTarget": {
+              "x": 17,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "170d47cb-4578-45f9-811c-49d875d7c965": {
+            "uuid": "170d47cb-4578-45f9-811c-49d875d7c965",
+            "team": "BLUE",
+            "LF": 2,
+            "nextMoveTarget": {
+              "x": 10,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "bdad18d5-6853-4493-aed9-4cf6a8a271f2": {
+            "uuid": "bdad18d5-6853-4493-aed9-4cf6a8a271f2",
+            "team": "BLUE",
+            "LF": 2,
+            "nextMoveTarget": {
+              "x": 5,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "78190120-8f9b-4f4a-883b-fb036334e85f": {
+            "uuid": "78190120-8f9b-4f4a-883b-fb036334e85f",
+            "team": "BLUE",
+            "LF": 2,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "8af689f4-1ab2-4002-9d53-1122ce207017": {
+            "uuid": "8af689f4-1ab2-4002-9d53-1122ce207017",
+            "team": "BLUE",
+            "LF": 2,
+            "nextMoveTarget": {
+              "x": 4,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "7e3cdc63-aadd-4908-8fc0-bfef63ebbeea": {
+            "uuid": "7e3cdc63-aadd-4908-8fc0-bfef63ebbeea",
+            "team": "BLUE",
+            "LF": 2,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "fb48b4f6-2a40-484b-9c9d-7e57ed2ff521": {
+            "uuid": "fb48b4f6-2a40-484b-9c9d-7e57ed2ff521",
+            "team": "BLUE",
+            "LF": 2,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "29173219-9572-4d08-a704-de4b59a373de": {
+            "uuid": "29173219-9572-4d08-a704-de4b59a373de",
+            "team": "BLUE",
+            "LF": 2,
+            "nextMoveTarget": {
+              "x": 6,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          },
+          "3dc77436-d6cd-41bd-bdd9-fb37fea00150": {
+            "uuid": "3dc77436-d6cd-41bd-bdd9-fb37fea00150",
+            "team": "BLUE",
+            "LF": 2,
+            "nextMoveTarget": {
+              "x": 18,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS"
+          }
+        }
+      },
+      "JavaAI": {
+        "uuidToCoreMap": {
+          "16bc23da-aad4-4962-98de-a560d2625553": {
+            "mergedUnitUuids": [],
+            "uuid": "16bc23da-aad4-4962-98de-a560d2625553",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 2,
+              "y": 14
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 2,
+              "y": 15
+            }
+          },
+          "c9deb41b-3708-4606-960f-1762abe4b287": {
+            "mergedUnitUuids": [],
+            "uuid": "c9deb41b-3708-4606-960f-1762abe4b287",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 3,
+              "y": 18
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 3,
+              "y": 0
+            }
+          },
+          "3db8041c-983f-4dd1-86bf-e2d0761afec8": {
+            "mergedUnitUuids": [],
+            "uuid": "3db8041c-983f-4dd1-86bf-e2d0761afec8",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 5
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 6
+            }
+          },
+          "f0b92161-708a-4b80-855a-b7c828a2a3e8": {
+            "mergedUnitUuids": [],
+            "uuid": "f0b92161-708a-4b80-855a-b7c828a2a3e8",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 16,
+              "y": 2
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 16,
+              "y": 1
+            }
+          },
+          "b228a1f1-6eee-4a12-8447-990d1d537fff": {
+            "mergedUnitUuids": [],
+            "uuid": "b228a1f1-6eee-4a12-8447-990d1d537fff",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 2
+            }
+          },
+          "b6127f7b-8259-4ebf-9ecf-28aac6442c72": {
+            "mergedUnitUuids": [],
+            "uuid": "b6127f7b-8259-4ebf-9ecf-28aac6442c72",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 0,
+              "y": 4
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 0,
+              "y": 5
+            }
+          },
+          "a7959888-d49f-40ee-88b2-3b07a8a36d8d": {
+            "mergedUnitUuids": [],
+            "uuid": "a7959888-d49f-40ee-88b2-3b07a8a36d8d",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 1,
+              "y": 1
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 0,
+              "y": 1
+            }
+          },
+          "7aa2af0e-3b54-4720-a334-cc83fa9255ab": {
+            "mergedUnitUuids": [],
+            "uuid": "7aa2af0e-3b54-4720-a334-cc83fa9255ab",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 18,
+              "y": 2
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 18,
+              "y": 3
+            }
+          },
+          "a1b8615a-08e2-4d8b-b202-6857bc18cfc3": {
+            "mergedUnitUuids": [],
+            "uuid": "a1b8615a-08e2-4d8b-b202-6857bc18cfc3",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 13,
+              "y": 2
+            }
+          },
+          "70081df7-5e7c-476a-85b8-27f27013bc29": {
+            "mergedUnitUuids": [],
+            "uuid": "70081df7-5e7c-476a-85b8-27f27013bc29",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 12
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 13
+            }
+          },
+          "5695eef1-a10f-435b-ac79-0e0c1ac329b9": {
+            "mergedUnitUuids": [],
+            "uuid": "5695eef1-a10f-435b-ac79-0e0c1ac329b9",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 16
+            },
+            "lastMoveResult": "NEWLY_SPAWNED",
+            "position": {
+              "x": 15,
+              "y": 15
+            }
+          },
+          "3da715d3-c8c8-4659-af29-0275c9048753": {
+            "mergedUnitUuids": [],
+            "uuid": "3da715d3-c8c8-4659-af29-0275c9048753",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 5
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 6
+            }
+          },
+          "8ff2f8db-9684-4aee-af39-336c2864b09f": {
+            "mergedUnitUuids": [],
+            "uuid": "8ff2f8db-9684-4aee-af39-336c2864b09f",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 16
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 16
+            }
+          },
+          "ebbf7cdf-3206-4c70-af39-7b5be24c5357": {
+            "mergedUnitUuids": [],
+            "uuid": "ebbf7cdf-3206-4c70-af39-7b5be24c5357",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 1,
+              "y": 9
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 1,
+              "y": 10
+            }
+          },
+          "c4f078da-c36e-41e8-87cd-f2dcc97995b2": {
+            "mergedUnitUuids": [],
+            "uuid": "c4f078da-c36e-41e8-87cd-f2dcc97995b2",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 12,
+              "y": 12
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 12,
+              "y": 13
+            }
+          },
+          "226e3a22-f1ca-44c4-a882-612dba323e91": {
+            "mergedUnitUuids": [],
+            "uuid": "226e3a22-f1ca-44c4-a882-612dba323e91",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 5
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 13,
+              "y": 6
+            }
+          },
+          "9da46df4-8882-445c-b94d-16e45e80dcf5": {
+            "mergedUnitUuids": [],
+            "uuid": "9da46df4-8882-445c-b94d-16e45e80dcf5",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 12
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 13,
+              "y": 13
+            }
+          },
+          "513faf36-953e-481f-b81e-6fd745eb35d3": {
+            "mergedUnitUuids": [],
+            "uuid": "513faf36-953e-481f-b81e-6fd745eb35d3",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 12
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 13
+            }
+          }
+        }
+      }
+    },
+    {
+      "JavaAI": {
+        "uuidToCoreMap": {
+          "16bc23da-aad4-4962-98de-a560d2625553": {
+            "mergedUnitUuids": [],
+            "uuid": "16bc23da-aad4-4962-98de-a560d2625553",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 2,
+              "y": 13
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 2,
+              "y": 14
+            }
+          },
+          "c9deb41b-3708-4606-960f-1762abe4b287": {
+            "mergedUnitUuids": [],
+            "uuid": "c9deb41b-3708-4606-960f-1762abe4b287",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 3,
+              "y": 17
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 3,
+              "y": 18
+            }
+          },
+          "3db8041c-983f-4dd1-86bf-e2d0761afec8": {
+            "mergedUnitUuids": [],
+            "uuid": "3db8041c-983f-4dd1-86bf-e2d0761afec8",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 4
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 5
+            }
+          },
+          "f0b92161-708a-4b80-855a-b7c828a2a3e8": {
+            "mergedUnitUuids": [],
+            "uuid": "f0b92161-708a-4b80-855a-b7c828a2a3e8",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 17,
+              "y": 2
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 16,
+              "y": 2
+            }
+          },
+          "b6127f7b-8259-4ebf-9ecf-28aac6442c72": {
+            "mergedUnitUuids": [],
+            "uuid": "b6127f7b-8259-4ebf-9ecf-28aac6442c72",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 0,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 0,
+              "y": 4
+            }
+          },
+          "a7959888-d49f-40ee-88b2-3b07a8a36d8d": {
+            "mergedUnitUuids": [],
+            "uuid": "a7959888-d49f-40ee-88b2-3b07a8a36d8d",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 2,
+              "y": 1
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 1,
+              "y": 1
+            }
+          },
+          "70081df7-5e7c-476a-85b8-27f27013bc29": {
+            "mergedUnitUuids": [],
+            "uuid": "70081df7-5e7c-476a-85b8-27f27013bc29",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 11
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 12
+            }
+          },
+          "5695eef1-a10f-435b-ac79-0e0c1ac329b9": {
+            "mergedUnitUuids": [],
+            "uuid": "5695eef1-a10f-435b-ac79-0e0c1ac329b9",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 16
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 16
+            }
+          },
+          "3da715d3-c8c8-4659-af29-0275c9048753": {
+            "mergedUnitUuids": [],
+            "uuid": "3da715d3-c8c8-4659-af29-0275c9048753",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 4
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 5
+            }
+          },
+          "8ff2f8db-9684-4aee-af39-336c2864b09f": {
+            "mergedUnitUuids": [],
+            "uuid": "8ff2f8db-9684-4aee-af39-336c2864b09f",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 16
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 16
+            }
+          },
+          "ebbf7cdf-3206-4c70-af39-7b5be24c5357": {
+            "mergedUnitUuids": [],
+            "uuid": "ebbf7cdf-3206-4c70-af39-7b5be24c5357",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 1,
+              "y": 8
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 1,
+              "y": 9
+            }
+          },
+          "c4f078da-c36e-41e8-87cd-f2dcc97995b2": {
+            "mergedUnitUuids": [],
+            "uuid": "c4f078da-c36e-41e8-87cd-f2dcc97995b2",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 12,
+              "y": 11
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 12,
+              "y": 12
+            }
+          },
+          "5e607072-dbe8-4733-bb3e-a707c6175ad2": {
+            "mergedUnitUuids": [],
+            "uuid": "5e607072-dbe8-4733-bb3e-a707c6175ad2",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 16
+            },
+            "lastMoveResult": "NEWLY_SPAWNED",
+            "position": {
+              "x": 15,
+              "y": 15
+            }
+          },
+          "226e3a22-f1ca-44c4-a882-612dba323e91": {
+            "mergedUnitUuids": [],
+            "uuid": "226e3a22-f1ca-44c4-a882-612dba323e91",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 4
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 13,
+              "y": 5
+            }
+          },
+          "9da46df4-8882-445c-b94d-16e45e80dcf5": {
+            "mergedUnitUuids": [],
+            "uuid": "9da46df4-8882-445c-b94d-16e45e80dcf5",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 11
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 13,
+              "y": 12
+            }
+          },
+          "513faf36-953e-481f-b81e-6fd745eb35d3": {
+            "mergedUnitUuids": [],
+            "uuid": "513faf36-953e-481f-b81e-6fd745eb35d3",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 11
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 12
+            }
+          }
+        }
+      }
+    },
+    {
+      "JavaAI": {
+        "uuidToCoreMap": {
+          "16bc23da-aad4-4962-98de-a560d2625553": {
+            "mergedUnitUuids": [],
+            "uuid": "16bc23da-aad4-4962-98de-a560d2625553",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 2,
+              "y": 12
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 2,
+              "y": 13
+            }
+          },
+          "c9deb41b-3708-4606-960f-1762abe4b287": {
+            "mergedUnitUuids": [],
+            "uuid": "c9deb41b-3708-4606-960f-1762abe4b287",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 3,
+              "y": 16
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 3,
+              "y": 17
+            }
+          },
+          "3db8041c-983f-4dd1-86bf-e2d0761afec8": {
+            "mergedUnitUuids": [],
+            "uuid": "3db8041c-983f-4dd1-86bf-e2d0761afec8",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 4
+            }
+          },
+          "f0b92161-708a-4b80-855a-b7c828a2a3e8": {
+            "mergedUnitUuids": [],
+            "uuid": "f0b92161-708a-4b80-855a-b7c828a2a3e8",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 18,
+              "y": 2
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 17,
+              "y": 2
+            }
+          },
+          "b6127f7b-8259-4ebf-9ecf-28aac6442c72": {
+            "mergedUnitUuids": [],
+            "uuid": "b6127f7b-8259-4ebf-9ecf-28aac6442c72",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 0,
+              "y": 2
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 0,
+              "y": 3
+            }
+          },
+          "a7959888-d49f-40ee-88b2-3b07a8a36d8d": {
+            "mergedUnitUuids": [],
+            "uuid": "a7959888-d49f-40ee-88b2-3b07a8a36d8d",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 3,
+              "y": 1
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 2,
+              "y": 1
+            }
+          },
+          "70081df7-5e7c-476a-85b8-27f27013bc29": {
+            "mergedUnitUuids": [],
+            "uuid": "70081df7-5e7c-476a-85b8-27f27013bc29",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 10
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 11
+            }
+          },
+          "5695eef1-a10f-435b-ac79-0e0c1ac329b9": {
+            "mergedUnitUuids": [],
+            "uuid": "5695eef1-a10f-435b-ac79-0e0c1ac329b9",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 16
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 16
+            }
+          },
+          "3da715d3-c8c8-4659-af29-0275c9048753": {
+            "mergedUnitUuids": [],
+            "uuid": "3da715d3-c8c8-4659-af29-0275c9048753",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 4
+            }
+          },
+          "8ff2f8db-9684-4aee-af39-336c2864b09f": {
+            "mergedUnitUuids": [],
+            "uuid": "8ff2f8db-9684-4aee-af39-336c2864b09f",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 12,
+              "y": 16
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 13,
+              "y": 16
+            }
+          },
+          "ebbf7cdf-3206-4c70-af39-7b5be24c5357": {
+            "mergedUnitUuids": [],
+            "uuid": "ebbf7cdf-3206-4c70-af39-7b5be24c5357",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 1,
+              "y": 7
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 1,
+              "y": 8
+            }
+          },
+          "18cdadc5-4712-42a2-8aea-9eaacf959b36": {
+            "mergedUnitUuids": [],
+            "uuid": "18cdadc5-4712-42a2-8aea-9eaacf959b36",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 16
+            },
+            "lastMoveResult": "NEWLY_SPAWNED",
+            "position": {
+              "x": 15,
+              "y": 15
+            }
+          },
+          "c4f078da-c36e-41e8-87cd-f2dcc97995b2": {
+            "mergedUnitUuids": [],
+            "uuid": "c4f078da-c36e-41e8-87cd-f2dcc97995b2",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 12,
+              "y": 10
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 12,
+              "y": 11
+            }
+          },
+          "5e607072-dbe8-4733-bb3e-a707c6175ad2": {
+            "mergedUnitUuids": [],
+            "uuid": "5e607072-dbe8-4733-bb3e-a707c6175ad2",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 16
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 16
+            }
+          },
+          "226e3a22-f1ca-44c4-a882-612dba323e91": {
+            "mergedUnitUuids": [],
+            "uuid": "226e3a22-f1ca-44c4-a882-612dba323e91",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 13,
+              "y": 4
+            }
+          },
+          "9da46df4-8882-445c-b94d-16e45e80dcf5": {
+            "mergedUnitUuids": [],
+            "uuid": "9da46df4-8882-445c-b94d-16e45e80dcf5",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 10
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 13,
+              "y": 11
+            }
+          },
+          "513faf36-953e-481f-b81e-6fd745eb35d3": {
+            "mergedUnitUuids": [],
+            "uuid": "513faf36-953e-481f-b81e-6fd745eb35d3",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 10
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 11
+            }
+          }
+        }
+      }
+    },
+    {
+      "JavaAI": {
+        "uuidToCoreMap": {
+          "16bc23da-aad4-4962-98de-a560d2625553": {
+            "mergedUnitUuids": [],
+            "uuid": "16bc23da-aad4-4962-98de-a560d2625553",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 2,
+              "y": 11
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 2,
+              "y": 12
+            }
+          },
+          "c9deb41b-3708-4606-960f-1762abe4b287": {
+            "mergedUnitUuids": [],
+            "uuid": "c9deb41b-3708-4606-960f-1762abe4b287",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 3,
+              "y": 15
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 3,
+              "y": 16
+            }
+          },
+          "3db8041c-983f-4dd1-86bf-e2d0761afec8": {
+            "mergedUnitUuids": [],
+            "uuid": "3db8041c-983f-4dd1-86bf-e2d0761afec8",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 3
+            }
+          },
+          "f0b92161-708a-4b80-855a-b7c828a2a3e8": {
+            "mergedUnitUuids": [],
+            "uuid": "f0b92161-708a-4b80-855a-b7c828a2a3e8",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 18,
+              "y": 3
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 18,
+              "y": 2
+            }
+          },
+          "9f9a7948-5fb0-4ead-a7b4-be48eb37bee2": {
+            "mergedUnitUuids": [],
+            "uuid": "9f9a7948-5fb0-4ead-a7b4-be48eb37bee2",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 15
+            },
+            "lastMoveResult": "NEWLY_SPAWNED",
+            "position": {
+              "x": 15,
+              "y": 15
+            }
+          },
+          "b6127f7b-8259-4ebf-9ecf-28aac6442c72": {
+            "mergedUnitUuids": [],
+            "uuid": "b6127f7b-8259-4ebf-9ecf-28aac6442c72",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 1,
+              "y": 2
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 0,
+              "y": 2
+            }
+          },
+          "a7959888-d49f-40ee-88b2-3b07a8a36d8d": {
+            "mergedUnitUuids": [],
+            "uuid": "a7959888-d49f-40ee-88b2-3b07a8a36d8d",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 4,
+              "y": 1
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 3,
+              "y": 1
+            }
+          },
+          "70081df7-5e7c-476a-85b8-27f27013bc29": {
+            "mergedUnitUuids": [],
+            "uuid": "70081df7-5e7c-476a-85b8-27f27013bc29",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 9
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 10
+            }
+          },
+          "5695eef1-a10f-435b-ac79-0e0c1ac329b9": {
+            "mergedUnitUuids": [],
+            "uuid": "5695eef1-a10f-435b-ac79-0e0c1ac329b9",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 17
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 13,
+              "y": 16
+            }
+          },
+          "3da715d3-c8c8-4659-af29-0275c9048753": {
+            "mergedUnitUuids": [],
+            "uuid": "3da715d3-c8c8-4659-af29-0275c9048753",
+            "team": "RED",
+            "LF": 2,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 3
+            },
+            "lastMoveResult": "DAMAGE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 4
+            }
+          },
+          "8ff2f8db-9684-4aee-af39-336c2864b09f": {
+            "mergedUnitUuids": [],
+            "uuid": "8ff2f8db-9684-4aee-af39-336c2864b09f",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 12,
+              "y": 17
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 12,
+              "y": 16
+            }
+          },
+          "ebbf7cdf-3206-4c70-af39-7b5be24c5357": {
+            "mergedUnitUuids": [],
+            "uuid": "ebbf7cdf-3206-4c70-af39-7b5be24c5357",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 1,
+              "y": 6
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 1,
+              "y": 7
+            }
+          },
+          "18cdadc5-4712-42a2-8aea-9eaacf959b36": {
+            "mergedUnitUuids": [],
+            "uuid": "18cdadc5-4712-42a2-8aea-9eaacf959b36",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 17
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 16
+            }
+          },
+          "c4f078da-c36e-41e8-87cd-f2dcc97995b2": {
+            "mergedUnitUuids": [],
+            "uuid": "c4f078da-c36e-41e8-87cd-f2dcc97995b2",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 12,
+              "y": 9
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 12,
+              "y": 10
+            }
+          },
+          "5e607072-dbe8-4733-bb3e-a707c6175ad2": {
+            "mergedUnitUuids": [],
+            "uuid": "5e607072-dbe8-4733-bb3e-a707c6175ad2",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 17
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 16
+            }
+          },
+          "226e3a22-f1ca-44c4-a882-612dba323e91": {
+            "mergedUnitUuids": [],
+            "uuid": "226e3a22-f1ca-44c4-a882-612dba323e91",
+            "team": "RED",
+            "LF": 2,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 3
+            },
+            "lastMoveResult": "DAMAGE_SUCCESS",
+            "position": {
+              "x": 13,
+              "y": 4
+            }
+          },
+          "9da46df4-8882-445c-b94d-16e45e80dcf5": {
+            "mergedUnitUuids": [],
+            "uuid": "9da46df4-8882-445c-b94d-16e45e80dcf5",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 9
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 13,
+              "y": 10
+            }
+          },
+          "513faf36-953e-481f-b81e-6fd745eb35d3": {
+            "mergedUnitUuids": [],
+            "uuid": "513faf36-953e-481f-b81e-6fd745eb35d3",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 9
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 10
+            }
+          }
+        }
+      }
+    },
+    {
+      "JavaAI": {
+        "uuidToCoreMap": {
+          "16bc23da-aad4-4962-98de-a560d2625553": {
+            "mergedUnitUuids": [],
+            "uuid": "16bc23da-aad4-4962-98de-a560d2625553",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 2,
+              "y": 10
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 2,
+              "y": 11
+            }
+          },
+          "c9deb41b-3708-4606-960f-1762abe4b287": {
+            "mergedUnitUuids": [],
+            "uuid": "c9deb41b-3708-4606-960f-1762abe4b287",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 3,
+              "y": 14
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 3,
+              "y": 15
+            }
+          },
+          "f0b92161-708a-4b80-855a-b7c828a2a3e8": {
+            "mergedUnitUuids": [],
+            "uuid": "f0b92161-708a-4b80-855a-b7c828a2a3e8",
+            "team": "RED",
+            "LF": 2,
+            "nextMoveTarget": {
+              "x": 18,
+              "y": 3
+            },
+            "lastMoveResult": "DAMAGE_SUCCESS",
+            "position": {
+              "x": 18,
+              "y": 2
+            }
+          },
+          "9f9a7948-5fb0-4ead-a7b4-be48eb37bee2": {
+            "mergedUnitUuids": [],
+            "uuid": "9f9a7948-5fb0-4ead-a7b4-be48eb37bee2",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 15
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 15
+            }
+          },
+          "b6127f7b-8259-4ebf-9ecf-28aac6442c72": {
+            "mergedUnitUuids": [],
+            "uuid": "b6127f7b-8259-4ebf-9ecf-28aac6442c72",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 2,
+              "y": 2
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 1,
+              "y": 2
+            }
+          },
+          "a7959888-d49f-40ee-88b2-3b07a8a36d8d": {
+            "mergedUnitUuids": [],
+            "uuid": "a7959888-d49f-40ee-88b2-3b07a8a36d8d",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 4,
+              "y": 0
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 4,
+              "y": 1
+            }
+          },
+          "70081df7-5e7c-476a-85b8-27f27013bc29": {
+            "mergedUnitUuids": [],
+            "uuid": "70081df7-5e7c-476a-85b8-27f27013bc29",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 8
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 9
+            }
+          },
+          "5695eef1-a10f-435b-ac79-0e0c1ac329b9": {
+            "mergedUnitUuids": [],
+            "uuid": "5695eef1-a10f-435b-ac79-0e0c1ac329b9",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 18
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 13,
+              "y": 17
+            }
+          },
+          "4a64d359-2fb9-481a-b401-62e71494bb50": {
+            "mergedUnitUuids": [],
+            "uuid": "4a64d359-2fb9-481a-b401-62e71494bb50",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 15
+            },
+            "lastMoveResult": "NEWLY_SPAWNED",
+            "position": {
+              "x": 15,
+              "y": 15
+            }
+          },
+          "8ff2f8db-9684-4aee-af39-336c2864b09f": {
+            "mergedUnitUuids": [],
+            "uuid": "8ff2f8db-9684-4aee-af39-336c2864b09f",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 12,
+              "y": 18
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 12,
+              "y": 17
+            }
+          },
+          "ebbf7cdf-3206-4c70-af39-7b5be24c5357": {
+            "mergedUnitUuids": [],
+            "uuid": "ebbf7cdf-3206-4c70-af39-7b5be24c5357",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 1,
+              "y": 5
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 1,
+              "y": 6
+            }
+          },
+          "18cdadc5-4712-42a2-8aea-9eaacf959b36": {
+            "mergedUnitUuids": [],
+            "uuid": "18cdadc5-4712-42a2-8aea-9eaacf959b36",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 15,
+              "y": 18
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 15,
+              "y": 17
+            }
+          },
+          "c4f078da-c36e-41e8-87cd-f2dcc97995b2": {
+            "mergedUnitUuids": [],
+            "uuid": "c4f078da-c36e-41e8-87cd-f2dcc97995b2",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 12,
+              "y": 8
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 12,
+              "y": 9
+            }
+          },
+          "5e607072-dbe8-4733-bb3e-a707c6175ad2": {
+            "mergedUnitUuids": [],
+            "uuid": "5e607072-dbe8-4733-bb3e-a707c6175ad2",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 18
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 17
+            }
+          },
+          "226e3a22-f1ca-44c4-a882-612dba323e91": {
+            "mergedUnitUuids": [],
+            "uuid": "226e3a22-f1ca-44c4-a882-612dba323e91",
+            "team": "RED",
+            "LF": 3,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 3
+            },
+            "lastMoveResult": "DAMAGE_SUCCESS",
+            "position": {
+              "x": 13,
+              "y": 4
+            }
+          },
+          "9da46df4-8882-445c-b94d-16e45e80dcf5": {
+            "mergedUnitUuids": [],
+            "uuid": "9da46df4-8882-445c-b94d-16e45e80dcf5",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 13,
+              "y": 8
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 13,
+              "y": 9
+            }
+          },
+          "513faf36-953e-481f-b81e-6fd745eb35d3": {
+            "mergedUnitUuids": [],
+            "uuid": "513faf36-953e-481f-b81e-6fd745eb35d3",
+            "team": "RED",
+            "LF": 1,
+            "nextMoveTarget": {
+              "x": 14,
+              "y": 8
+            },
+            "lastMoveResult": "MOVE_SUCCESS",
+            "position": {
+              "x": 14,
+              "y": 9
+            }
+          },
+          "8a2e56df-4977-468a-a4be-886d88ec9bfc": {
+            "mergedUnitUuids": [
+              "3db8041c-983f-4dd1-86bf-e2d0761afec8",
+              "3da715d3-c8c8-4659-af29-0275c9048753"
+            ],
+            "uuid": "8a2e56df-4977-468a-a4be-886d88ec9bfc",
+            "team": "RED",
+            "LF": 3,
+            "nextMoveTarget": {
+              "x": 16,
+              "y": 3
+            },
+            "lastMoveResult": "NEWLY_MERGED",
+            "position": {
+              "x": 15,
+              "y": 3
+            }
+          }
+        }
+      }
+    }
+  ],
+  "gameEvents": {
+    "26": [
+      {
+        "playerUuid": "JavaAI",
+        "location": {
+          "x": 3,
+          "y": 3
+        },
+        "type": "DESTROYED_ENEMY_NEST"
+      },
+      {
+        "playerUuid": "JavaAI",
+        "type": "ELIMINATED_OPPONENT"
+      },
+      {
+        "playerUuid": "JavaAI",
+        "location": {
+          "x": 1,
+          "y": 3
+        },
+        "type": "BUILT_NEST"
+      }
+    ]
+  },
+  "playerUuidToScores": {
+    "PythonAI_1": 9,
+    "JavaAI": 198
+  },
+  "playerUuidToNumTiles": {
+    "PythonAI_1": 9,
+    "JavaAI": 188
+  },
+  "playerUuidToNumPermanentTiles": {
+    "PythonAI_1": 0,
+    "JavaAI": 5
+  }
+}
